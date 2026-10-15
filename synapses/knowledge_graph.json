@@ -35,7 +35,9 @@
         "two quarters",
         "Iceland",
         "2019 European",
-        "previously competed"
+        "previously competed",
+        "Whitby",
+        "Cross: Whitby"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -56,6 +58,7 @@
         "Trudering-riem: --[trudering-riem]--> the 15th",
         "Consists --[the]--> two quarters",
         "Iceland --[the]--> 2019 European",
-        "Iceland --[has]--> previously competed"
+        "Iceland --[has]--> previously competed",
+        "Whitby --[abbey]--> Cross: Whitby"
     ]
 }
