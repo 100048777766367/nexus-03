@@ -1,24 +1,43 @@
 {
-    "contract": "bodhi.nexus.v3",
+    "contract": "bodhi.nexus.v4",
     "node_dna": {
         "identity": "100048777766367/nexus-03",
-        "generation": "F2_IMMUNE_REFLECTIVE_NEXUS",
-        "generation_epoch": 46,
-        "architecture": "Nexus02_Microkernel_Immune",
-        "dream_status": "Active_Awake",
-        "prev_cid": "7a90f0be96995735b847c758705ad63fb892a5b5db04dd565b90d1eade2b0db12cdd65bfffa58b907f920bc11bef0e1ab43d2ea3caf6a009f83541ece611c2d5"
+        "generation": "F3_AUTOGENIC_NEURO_SYMBOLIC_NEXUS",
+        "generation_epoch": 47,
+        "architecture": "Nexus03_Autogenic_Microkernel",
+        "knowledge_graph": "Entities:12, Edges:6",
+        "prev_cid": "4d8a317ceae213e69608c7121821090a7853338ad303a00cbe3ba04b14ee42dd311347ba3d618a2dfc52b92344620d5fa58009e458e92b272e56c5d7f4fe5408"
     },
-    "generation_epoch": 46,
-    "timestamp": 1792050378,
-    "decision": 0.6142,
+    "generation_epoch": 47,
+    "timestamp": 1792050406,
+    "decision": 0.6162,
     "command_pulse": [
-        0.6142,
-        0.3858
+        0.6162,
+        0.3838
     ],
     "features": [
-        0.6142,
-        0.3858
+        0.6162,
+        0.3838
     ],
+    "directed_commands": {
+        "retina": {
+            "action": "adjust_focus",
+            "sensitivity": 0.9243,
+            "attention_gate": "high"
+        },
+        "motor": {
+            "action": "contract_or_relax",
+            "torque_pulse": [
+                0.6162,
+                0.3838
+            ],
+            "intensity": 0.2324
+        },
+        "monad": {
+            "action": "dialectical_synthesis",
+            "bias_shift": 0.1162
+        }
+    },
     "gossip_network": [
         "100048777766367/seed",
         "100048777766367/seed-01",
@@ -35,5 +54,5 @@
         "100048777766367/motor",
         "100048777766367/genome"
     ],
-    "quantum_cid": "4d8a317ceae213e69608c7121821090a7853338ad303a00cbe3ba04b14ee42dd311347ba3d618a2dfc52b92344620d5fa58009e458e92b272e56c5d7f4fe5408"
+    "quantum_cid": "53aef90a6622a1a54a32b6f173efd81eaa9daa1060d756efb39efb6806b51bd1ad46f09a27424b4bb09990e49f1358735a5dabeb1f76280ab8b20742731d3f5d"
 }

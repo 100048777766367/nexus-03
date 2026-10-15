@@ -7,12 +7,18 @@
         "Sukkwan",
         "(film): Sukkwan",
         "Kristen",
-        "Kristen Elise"
+        "Kristen Elise",
+        "Gleicheniales:",
+        "order ferns",
+        "The",
+        "has spore"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
         "From --[1968,]--> was the",
         "Sukkwan --[island]--> (film): Sukkwan",
-        "Kristen --[lawrence:]--> Kristen Elise"
+        "Kristen --[lawrence:]--> Kristen Elise",
+        "Gleicheniales: --[gleicheniales]--> order ferns",
+        "The --[gleicheniales]--> has spore"
     ]
 }
