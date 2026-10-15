@@ -1,20 +1,20 @@
-name: Nexus-02 Immune Lifecycle
+name: Nexus-03 Autogenic Lifecycle
 
 on:
   push:
     branches: [ main ]
   workflow_dispatch:
   schedule:
-    - cron: '20 */4 * * *'
+    - cron: '25 */4 * * *'
 
 permissions:
   contents: write
 
 jobs:
-  run-nexus02:
+  run-nexus03:
     runs-on: ubuntu-latest
     steps:
-      - name: Kéo mã nguồn Nexus-02
+      - name: Kéo mã nguồn Nexus-03
         run: |
           git clone --depth 1 https://github.com/${{ github.repository }}.git .
 
@@ -23,24 +23,25 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Vận hành Microkernel Miễn Dịch Nexus-02
+      - name: Vận hành Vi Nhân Tự Sinh Hóa Nexus-03
         env:
           REPO_OWNER: ${{ github.repository_owner }}
         run: python engine.py
 
-      - name: Lưu vết tích tiến hóa Git
+      - name: Lưu vết tích tiến hóa và mã nguồn tự sinh
         run: |
-          git config --global user.name "Nexus-02-Immune-Bot"
-          git config --global user.email "bot@nexus02.node"
+          git config --global user.name "Nexus-03-Autogenic-Bot"
+          git config --global user.email "bot@nexus03.node"
           
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           
           git fetch origin main
           git reset origin/main
-          git add synapses/ synapse_backward.json synapse_forward.json 2>/dev/null || true
+          # Thêm cả thư mục mechanisms để lưu mã nguồn tự sinh
+          git add synapses/ mechanisms/ synapse_backward.json synapse_forward.json 2>/dev/null || true
           
           if ! git diff --staged --quiet; then
-            git commit -m "🛡️ [Nexus-02 Bất Hoại] Hệ miễn dịch & Giấc mơ số #(1+N) [skip ci]"
+            git commit -m "🧬 [Nexus-03 F3] Trí tuệ lai Neuro-Symbolic & Tự sinh hóa mã #(1+N) [skip ci]"
             git push origin main
           else
             echo "Mạng lưới tĩnh, không có biến đổi mới."
