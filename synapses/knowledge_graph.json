@@ -20,7 +20,9 @@
         "Panzergrenadier",
         "Großdeutschland: The",
         "Lyckeby:",
-        "village Karlskrona"
+        "village Karlskrona",
+        "Mariko",
+        "Mariko Sanjo"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -33,6 +35,7 @@
         "One --[norway's]--> first female",
         "From --[the]--> Middle Ages",
         "Panzergrenadier --[division]--> Großdeutschland: The",
-        "Lyckeby: --[lyckeby]--> village Karlskrona"
+        "Lyckeby: --[lyckeby]--> village Karlskrona",
+        "Mariko --[sanjo:]--> Mariko Sanjo"
     ]
 }
