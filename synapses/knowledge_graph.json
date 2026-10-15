@@ -5,11 +5,14 @@
         "From",
         "was the",
         "Sukkwan",
-        "(film): Sukkwan"
+        "(film): Sukkwan",
+        "Kristen",
+        "Kristen Elise"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
         "From --[1968,]--> was the",
-        "Sukkwan --[island]--> (film): Sukkwan"
+        "Sukkwan --[island]--> (film): Sukkwan",
+        "Kristen --[lawrence:]--> Kristen Elise"
     ]
 }
