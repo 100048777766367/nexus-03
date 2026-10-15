@@ -28,7 +28,11 @@
         "Wodehouse,",
         "features the",
         "Víctor",
-        "Victor Manuel"
+        "Victor Manuel",
+        "Trudering-riem:",
+        "the 15th",
+        "Consists",
+        "two quarters"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -45,6 +49,8 @@
         "Mariko --[sanjo:]--> Mariko Sanjo",
         "Sir --[roderick]--> Comes Lunch:",
         "Wodehouse, --[and]--> features the",
-        "Víctor --[amela:]--> Victor Manuel"
+        "Víctor --[amela:]--> Victor Manuel",
+        "Trudering-riem: --[trudering-riem]--> the 15th",
+        "Consists --[the]--> two quarters"
     ]
 }
