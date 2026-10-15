@@ -32,7 +32,10 @@
         "Trudering-riem:",
         "the 15th",
         "Consists",
-        "two quarters"
+        "two quarters",
+        "Iceland",
+        "2019 European",
+        "previously competed"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -51,6 +54,8 @@
         "Wodehouse, --[and]--> features the",
         "Víctor --[amela:]--> Victor Manuel",
         "Trudering-riem: --[trudering-riem]--> the 15th",
-        "Consists --[the]--> two quarters"
+        "Consists --[the]--> two quarters",
+        "Iceland --[the]--> 2019 European",
+        "Iceland --[has]--> previously competed"
     ]
 }
