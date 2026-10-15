@@ -15,7 +15,8 @@
         "Anna",
         "Anna Hvoslef",
         "One",
-        "first female"
+        "first female",
+        "Middle Ages"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -25,6 +26,7 @@
         "Gleicheniales: --[gleicheniales]--> order ferns",
         "The --[gleicheniales]--> has spore",
         "Anna --[hvoslef:]--> Anna Hvoslef",
-        "One --[norway's]--> first female"
+        "One --[norway's]--> first female",
+        "From --[the]--> Middle Ages"
     ]
 }
