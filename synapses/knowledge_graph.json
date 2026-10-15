@@ -11,7 +11,11 @@
         "Gleicheniales:",
         "order ferns",
         "The",
-        "has spore"
+        "has spore",
+        "Anna",
+        "Anna Hvoslef",
+        "One",
+        "first female"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -19,6 +23,8 @@
         "Sukkwan --[island]--> (film): Sukkwan",
         "Kristen --[lawrence:]--> Kristen Elise",
         "Gleicheniales: --[gleicheniales]--> order ferns",
-        "The --[gleicheniales]--> has spore"
+        "The --[gleicheniales]--> has spore",
+        "Anna --[hvoslef:]--> Anna Hvoslef",
+        "One --[norway's]--> first female"
     ]
 }

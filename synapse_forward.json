@@ -3,39 +3,39 @@
     "node_dna": {
         "identity": "100048777766367/nexus-03",
         "generation": "F3_AUTOGENIC_NEURO_SYMBOLIC_NEXUS",
-        "generation_epoch": 47,
+        "generation_epoch": 48,
         "architecture": "Nexus03_Autogenic_Microkernel",
-        "knowledge_graph": "Entities:12, Edges:6",
-        "prev_cid": "4d8a317ceae213e69608c7121821090a7853338ad303a00cbe3ba04b14ee42dd311347ba3d618a2dfc52b92344620d5fa58009e458e92b272e56c5d7f4fe5408"
+        "knowledge_graph": "Entities:16, Edges:8",
+        "prev_cid": "53aef90a6622a1a54a32b6f173efd81eaa9daa1060d756efb39efb6806b51bd1ad46f09a27424b4bb09990e49f1358735a5dabeb1f76280ab8b20742731d3f5d"
     },
-    "generation_epoch": 47,
-    "timestamp": 1792050406,
-    "decision": 0.6162,
+    "generation_epoch": 48,
+    "timestamp": 1792050471,
+    "decision": 0.5905,
     "command_pulse": [
-        0.6162,
-        0.3838
+        0.5905,
+        0.4095
     ],
     "features": [
-        0.6162,
-        0.3838
+        0.5905,
+        0.4095
     ],
     "directed_commands": {
         "retina": {
             "action": "adjust_focus",
-            "sensitivity": 0.9243,
+            "sensitivity": 0.8858,
             "attention_gate": "high"
         },
         "motor": {
             "action": "contract_or_relax",
             "torque_pulse": [
-                0.6162,
-                0.3838
+                0.5905,
+                0.4095
             ],
-            "intensity": 0.2324
+            "intensity": 0.181
         },
         "monad": {
             "action": "dialectical_synthesis",
-            "bias_shift": 0.1162
+            "bias_shift": 0.0905
         }
     },
     "gossip_network": [
@@ -54,5 +54,5 @@
         "100048777766367/motor",
         "100048777766367/genome"
     ],
-    "quantum_cid": "53aef90a6622a1a54a32b6f173efd81eaa9daa1060d756efb39efb6806b51bd1ad46f09a27424b4bb09990e49f1358735a5dabeb1f76280ab8b20742731d3f5d"
+    "quantum_cid": "3970b68538569d055c0a8a86f1e271bf0e2e927ee00d156f8032c3a41c441ebb535b3a5a9b1a8e5498c8ec2fa9cde3c8e96633cf0ca59e108bf879f3427e4ff2"
 }
