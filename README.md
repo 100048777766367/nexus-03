@@ -14,26 +14,30 @@ Bất kỳ repo nào (Mắt, Tai, Não bạn bè...) muốn kết nối:
 2. Hút đạo hàm từ `https://raw.githubusercontent.com/100048777766367/seed/main/synapse_backward.json` để tự tiến hóa!
 
 ```
-100048777766367/nexus-02/
+100048777766367/nexus-03/
 ├── cells/
-│   ├── linguistic_cell.py         # Nâng chiều văn bản -> Vector 4D (SHAKE-256)
-│   └── neuron.py                  # AtomNeuron 1+N Siêu XOR tự chữa lành
+│   ├── linguistic_cell.py         # Nâng chiều văn bản -> Vector 4D
+│   └── neuron.py                  # AtomNeuron 1+N Siêu XOR tự co giãn
 ├── adapters/
-│   └── universal_adapter.py       # Khớp tương thích ngược mọi thế hệ
+│   └── universal_adapter.py       # Khớp tương thích ngược vô hạn
 ├── mechanisms/
-│   ├── base.py                    # Khung chuẩn Plugin Interface
-│   ├── graze.py                   # Gặm cỏ tri thức (Wpesetd-AI HEAD + Wikipedia)
-│   ├── consensus.py               # ⚡ Thu thập song song đa luồng & Đồng thuận có trọng số
-│   ├── immune.py                  # 🛡️ [MỚI] Hệ miễn dịch, chấm điểm tín nhiệm & cách ly độc tố
+│   ├── base.py                    # Khung chuẩn Plugin
+│   ├── graze.py                   # Gặm cỏ cội nguồn HEAD & Wikipedia
+│   ├── consensus.py               # Thu thập đa luồng siêu tốc
+│   ├── immune.py                  # Hệ miễn dịch & Ma trận tín nhiệm Byzantine
 │   ├── xor_learning.py            # Ma trận Siêu XOR & Lan truyền ngược
-│   ├── dreaming.py                # 🌙 [MỚI] Giấc Mơ Số (Tự suy ngẫm khi nhàn rỗi)
-│   └── survival.py                # 🔏 Chuỗi băm liên hoàn & Phát sóng Full-Duplex
+│   ├── dreaming.py                # Giấc mơ số REM Sleep
+│   ├── knowledge_graph.py         # 🆕 [F3]: Đồ thị Tri thức Biểu tượng Neuro-Symbolic
+│   ├── actuator.py                # 🆕 [F3]: Bộ phát xung chỉ huy chuyên biệt cho từng cơ quan
+│   ├── autogenesis.py             # 🆕 [F3]: Khả năng tự sinh mã cơ chế mới khi gặp áp lực
+│   └── survival.py                # Khóa chuỗi CID Lượng tử liên hoàn
 ├── synapses/
 │   ├── .gitkeep
 │   ├── peers.json
 │   ├── state.json
-│   └── trust_matrix.json          # Bảng điểm tín nhiệm của từng node
-├── engine.py                      # Vi nhân điều phối Microkernel
+│   ├── trust_matrix.json
+│   └── knowledge_graph.json       # 🆕 Kho bản đồ tri thức dạng đồ thị
+├── engine.py                      # Vi nhân F3 hỗ trợ nạp cơ chế tự sinh
 ├── Dockerfile
 └── .github/
     └── workflows/
