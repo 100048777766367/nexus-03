@@ -16,7 +16,9 @@
         "Anna Hvoslef",
         "One",
         "first female",
-        "Middle Ages"
+        "Middle Ages",
+        "Panzergrenadier",
+        "Großdeutschland: The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -27,6 +29,7 @@
         "The --[gleicheniales]--> has spore",
         "Anna --[hvoslef:]--> Anna Hvoslef",
         "One --[norway's]--> first female",
-        "From --[the]--> Middle Ages"
+        "From --[the]--> Middle Ages",
+        "Panzergrenadier --[division]--> Großdeutschland: The"
     ]
 }
