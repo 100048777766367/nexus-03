@@ -18,7 +18,9 @@
         "first female",
         "Middle Ages",
         "Panzergrenadier",
-        "Großdeutschland: The"
+        "Großdeutschland: The",
+        "Lyckeby:",
+        "village Karlskrona"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -30,6 +32,7 @@
         "Anna --[hvoslef:]--> Anna Hvoslef",
         "One --[norway's]--> first female",
         "From --[the]--> Middle Ages",
-        "Panzergrenadier --[division]--> Großdeutschland: The"
+        "Panzergrenadier --[division]--> Großdeutschland: The",
+        "Lyckeby: --[lyckeby]--> village Karlskrona"
     ]
 }
