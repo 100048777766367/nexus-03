@@ -1,0 +1,12 @@
+{
+    "nodes": [
+        "Mikael",
+        "Mikael Rickfors",
+        "From",
+        "was the"
+    ],
+    "edges": [
+        "Mikael --[rickfors:]--> Mikael Rickfors",
+        "From --[1968,]--> was the"
+    ]
+}
