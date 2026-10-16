@@ -41,7 +41,11 @@
         "Włóczno:",
         "former village",
         "Gerrit",
-        "(politician): Gerrit"
+        "(politician): Gerrit",
+        "Stump",
+        "cricket, the",
+        "Stumping",
+        "stumpe"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -65,6 +69,8 @@
         "Iceland --[has]--> previously competed",
         "Whitby --[abbey]--> Cross: Whitby",
         "Włóczno: --[włóczno]--> former village",
-        "Gerrit --[vries]--> (politician): Gerrit"
+        "Gerrit --[vries]--> (politician): Gerrit",
+        "Stump --[(cricket):]--> cricket, the",
+        "Stumping --[being]--> stumpe"
     ]
 }
