@@ -39,7 +39,9 @@
         "Whitby",
         "Cross: Whitby",
         "Włóczno:",
-        "former village"
+        "former village",
+        "Gerrit",
+        "(politician): Gerrit"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -62,6 +64,7 @@
         "Iceland --[the]--> 2019 European",
         "Iceland --[has]--> previously competed",
         "Whitby --[abbey]--> Cross: Whitby",
-        "Włóczno: --[włóczno]--> former village"
+        "Włóczno: --[włóczno]--> former village",
+        "Gerrit --[vries]--> (politician): Gerrit"
     ]
 }
