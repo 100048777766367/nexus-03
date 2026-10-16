@@ -45,7 +45,9 @@
         "Stump",
         "cricket, the",
         "Stumping",
-        "stumpe"
+        "stumpe",
+        "Kit",
+        "Christopher Sebastian"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -71,6 +73,7 @@
         "Włóczno: --[włóczno]--> former village",
         "Gerrit --[vries]--> (politician): Gerrit",
         "Stump --[(cricket):]--> cricket, the",
-        "Stumping --[being]--> stumpe"
+        "Stumping --[being]--> stumpe",
+        "Kit --[lambert:]--> Christopher Sebastian"
     ]
 }
