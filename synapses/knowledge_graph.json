@@ -47,7 +47,9 @@
         "Stumping",
         "stumpe",
         "Kit",
-        "Christopher Sebastian"
+        "Christopher Sebastian",
+        "Albert",
+        "(physician): Albert"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -74,6 +76,7 @@
         "Gerrit --[vries]--> (politician): Gerrit",
         "Stump --[(cricket):]--> cricket, the",
         "Stumping --[being]--> stumpe",
-        "Kit --[lambert:]--> Christopher Sebastian"
+        "Kit --[lambert:]--> Christopher Sebastian",
+        "Albert --[leffingwell]--> (physician): Albert"
     ]
 }
