@@ -57,7 +57,9 @@
         "Released",
         "Recordings, Mom",
         "Immediate",
-        "Region Manhuaçu:"
+        "Region Manhuaçu:",
+        "Frédéric",
+        "Frédéric Pottecher"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -89,6 +91,7 @@
         "Tibbits --[house:]--> Tibbits House,",
         "Good --[grief]--> (Lucius album):",
         "Released --[pias]--> Recordings, Mom",
-        "Immediate --[geographic]--> Region Manhuaçu:"
+        "Immediate --[geographic]--> Region Manhuaçu:",
+        "Frédéric --[pottecher:]--> Frédéric Pottecher"
     ]
 }
