@@ -55,7 +55,9 @@
         "Good",
         "(Lucius album):",
         "Released",
-        "Recordings, Mom"
+        "Recordings, Mom",
+        "Immediate",
+        "Region Manhuaçu:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -86,6 +88,7 @@
         "Albert --[leffingwell]--> (physician): Albert",
         "Tibbits --[house:]--> Tibbits House,",
         "Good --[grief]--> (Lucius album):",
-        "Released --[pias]--> Recordings, Mom"
+        "Released --[pias]--> Recordings, Mom",
+        "Immediate --[geographic]--> Region Manhuaçu:"
     ]
 }
