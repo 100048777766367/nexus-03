@@ -51,7 +51,11 @@
         "Albert",
         "(physician): Albert",
         "Tibbits",
-        "Tibbits House,"
+        "Tibbits House,",
+        "Good",
+        "(Lucius album):",
+        "Released",
+        "Recordings, Mom"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -80,6 +84,8 @@
         "Stumping --[being]--> stumpe",
         "Kit --[lambert:]--> Christopher Sebastian",
         "Albert --[leffingwell]--> (physician): Albert",
-        "Tibbits --[house:]--> Tibbits House,"
+        "Tibbits --[house:]--> Tibbits House,",
+        "Good --[grief]--> (Lucius album):",
+        "Released --[pias]--> Recordings, Mom"
     ]
 }
