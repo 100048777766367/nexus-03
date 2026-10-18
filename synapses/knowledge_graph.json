@@ -65,7 +65,9 @@
         "Las",
         "Codex: The",
         "1300",
-        "originated and"
+        "originated and",
+        "Clarence",
+        "III: Clarence"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -101,6 +103,7 @@
         "Frédéric --[pottecher:]--> Frédéric Pottecher",
         "Dark --[energy]--> Survey: The",
         "Las --[huelgas]--> Codex: The",
-        "1300 --[which]--> originated and"
+        "1300 --[which]--> originated and",
+        "Clarence --[mitchell]--> III: Clarence"
     ]
 }
