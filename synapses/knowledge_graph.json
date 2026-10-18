@@ -61,7 +61,11 @@
         "Frédéric",
         "Frédéric Pottecher",
         "Dark",
-        "Survey: The"
+        "Survey: The",
+        "Las",
+        "Codex: The",
+        "1300",
+        "originated and"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -95,6 +99,8 @@
         "Released --[pias]--> Recordings, Mom",
         "Immediate --[geographic]--> Region Manhuaçu:",
         "Frédéric --[pottecher:]--> Frédéric Pottecher",
-        "Dark --[energy]--> Survey: The"
+        "Dark --[energy]--> Survey: The",
+        "Las --[huelgas]--> Codex: The",
+        "1300 --[which]--> originated and"
     ]
 }
