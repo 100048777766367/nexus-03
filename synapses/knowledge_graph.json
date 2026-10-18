@@ -67,7 +67,9 @@
         "1300",
         "originated and",
         "Clarence",
-        "III: Clarence"
+        "III: Clarence",
+        "Laura",
+        "Laura Neboli"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -104,6 +106,7 @@
         "Dark --[energy]--> Survey: The",
         "Las --[huelgas]--> Codex: The",
         "1300 --[which]--> originated and",
-        "Clarence --[mitchell]--> III: Clarence"
+        "Clarence --[mitchell]--> III: Clarence",
+        "Laura --[neboli:]--> Laura Neboli"
     ]
 }
