@@ -59,7 +59,9 @@
         "Immediate",
         "Region Manhuaçu:",
         "Frédéric",
-        "Frédéric Pottecher"
+        "Frédéric Pottecher",
+        "Dark",
+        "Survey: The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -92,6 +94,7 @@
         "Good --[grief]--> (Lucius album):",
         "Released --[pias]--> Recordings, Mom",
         "Immediate --[geographic]--> Region Manhuaçu:",
-        "Frédéric --[pottecher:]--> Frédéric Pottecher"
+        "Frédéric --[pottecher:]--> Frédéric Pottecher",
+        "Dark --[energy]--> Survey: The"
     ]
 }
