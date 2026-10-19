@@ -73,7 +73,11 @@
         "Grzegorz",
         "Grzegorz Marek",
         "Competed",
-        "men's Division"
+        "men's Division",
+        "Rudi",
+        "Ronald \"Rudi\"",
+        "Was",
+        "the founders"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -113,6 +117,8 @@
         "Clarence --[mitchell]--> III: Clarence",
         "Laura --[neboli:]--> Laura Neboli",
         "Grzegorz --[myszkowski:]--> Grzegorz Marek",
-        "Competed --[the]--> men's Division"
+        "Competed --[the]--> men's Division",
+        "Rudi --[kappel:]--> Ronald \"Rudi\"",
+        "Was --[one]--> the founders"
     ]
 }
