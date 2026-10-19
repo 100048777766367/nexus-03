@@ -77,7 +77,10 @@
         "Rudi",
         "Ronald \"Rudi\"",
         "Was",
-        "the founders"
+        "the founders",
+        "Milap",
+        "film): Milap",
+        "featured Dev"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -119,6 +122,8 @@
         "Grzegorz --[myszkowski:]--> Grzegorz Marek",
         "Competed --[the]--> men's Division",
         "Rudi --[kappel:]--> Ronald \"Rudi\"",
-        "Was --[one]--> the founders"
+        "Was --[one]--> the founders",
+        "Milap --[(1955]--> film): Milap",
+        "The --[film]--> featured Dev"
     ]
 }
