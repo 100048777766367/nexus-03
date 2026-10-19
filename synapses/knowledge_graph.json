@@ -69,7 +69,11 @@
         "Clarence",
         "III: Clarence",
         "Laura",
-        "Laura Neboli"
+        "Laura Neboli",
+        "Grzegorz",
+        "Grzegorz Marek",
+        "Competed",
+        "men's Division"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -107,6 +111,8 @@
         "Las --[huelgas]--> Codex: The",
         "1300 --[which]--> originated and",
         "Clarence --[mitchell]--> III: Clarence",
-        "Laura --[neboli:]--> Laura Neboli"
+        "Laura --[neboli:]--> Laura Neboli",
+        "Grzegorz --[myszkowski:]--> Grzegorz Marek",
+        "Competed --[the]--> men's Division"
     ]
 }
