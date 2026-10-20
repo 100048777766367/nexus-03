@@ -80,7 +80,11 @@
         "the founders",
         "Milap",
         "film): Milap",
-        "featured Dev"
+        "featured Dev",
+        "Meal",
+        "meal replacement",
+        "Intended",
+        "for solid"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -124,6 +128,8 @@
         "Rudi --[kappel:]--> Ronald \"Rudi\"",
         "Was --[one]--> the founders",
         "Milap --[(1955]--> film): Milap",
-        "The --[film]--> featured Dev"
+        "The --[film]--> featured Dev",
+        "Meal --[replacement:]--> meal replacement",
+        "Intended --[substitute]--> for solid"
     ]
 }
