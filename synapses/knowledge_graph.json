@@ -90,7 +90,9 @@
         "Waccasassa",
         "Preserve State",
         "Km2)",
-        "marsh that"
+        "marsh that",
+        "Bárbara",
+        "Bárbara Channel"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -139,6 +141,7 @@
         "Intended --[substitute]--> for solid",
         "Pressure: --[pressure]--> the force",
         "Waccasassa --[bay]--> Preserve State",
-        "Km2) --[salt]--> marsh that"
+        "Km2) --[salt]--> marsh that",
+        "Bárbara --[channel:]--> Bárbara Channel"
     ]
 }
