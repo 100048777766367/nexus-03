@@ -84,7 +84,9 @@
         "Meal",
         "meal replacement",
         "Intended",
-        "for solid"
+        "for solid",
+        "Pressure:",
+        "the force"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -130,6 +132,7 @@
         "Milap --[(1955]--> film): Milap",
         "The --[film]--> featured Dev",
         "Meal --[replacement:]--> meal replacement",
-        "Intended --[substitute]--> for solid"
+        "Intended --[substitute]--> for solid",
+        "Pressure: --[pressure]--> the force"
     ]
 }
