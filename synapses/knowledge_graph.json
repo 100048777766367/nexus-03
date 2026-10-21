@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Mikael Rickfors",
-        "From",
-        "was the",
         "Sukkwan",
         "(film): Sukkwan",
         "Kristen",
@@ -99,7 +96,10 @@
         "Raf",
         "Royal Air",
         "High-floor:",
-        "describes the"
+        "describes the",
+        "Life",
+        "(play): Life",
+        "performed the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -153,6 +153,8 @@
         "Livezile, --[mehedinți:]--> Livezile commune",
         "Has --[1,424]--> inhabitants 2021",
         "Raf --[wing:]--> Royal Air",
-        "High-floor: --[high-floor]--> describes the"
+        "High-floor: --[high-floor]--> describes the",
+        "Life --[riley]--> (play): Life",
+        "Was --[first]--> performed the"
     ]
 }
