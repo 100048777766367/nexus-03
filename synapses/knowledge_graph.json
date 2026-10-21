@@ -92,7 +92,11 @@
         "Km2)",
         "marsh that",
         "Bárbara",
-        "Bárbara Channel"
+        "Bárbara Channel",
+        "Livezile,",
+        "Livezile commune",
+        "Has",
+        "inhabitants 2021"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -142,6 +146,8 @@
         "Pressure: --[pressure]--> the force",
         "Waccasassa --[bay]--> Preserve State",
         "Km2) --[salt]--> marsh that",
-        "Bárbara --[channel:]--> Bárbara Channel"
+        "Bárbara --[channel:]--> Bárbara Channel",
+        "Livezile, --[mehedinți:]--> Livezile commune",
+        "Has --[1,424]--> inhabitants 2021"
     ]
 }
