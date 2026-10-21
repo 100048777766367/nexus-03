@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Mikael",
         "Mikael Rickfors",
         "From",
         "was the",
@@ -98,7 +97,9 @@
         "Has",
         "inhabitants 2021",
         "Raf",
-        "Royal Air"
+        "Royal Air",
+        "High-floor:",
+        "describes the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -151,6 +152,7 @@
         "Bárbara --[channel:]--> Bárbara Channel",
         "Livezile, --[mehedinți:]--> Livezile commune",
         "Has --[1,424]--> inhabitants 2021",
-        "Raf --[wing:]--> Royal Air"
+        "Raf --[wing:]--> Royal Air",
+        "High-floor: --[high-floor]--> describes the"
     ]
 }
