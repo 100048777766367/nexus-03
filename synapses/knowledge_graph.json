@@ -96,7 +96,9 @@
         "Livezile,",
         "Livezile commune",
         "Has",
-        "inhabitants 2021"
+        "inhabitants 2021",
+        "Raf",
+        "Royal Air"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -148,6 +150,7 @@
         "Km2) --[salt]--> marsh that",
         "Bárbara --[channel:]--> Bárbara Channel",
         "Livezile, --[mehedinți:]--> Livezile commune",
-        "Has --[1,424]--> inhabitants 2021"
+        "Has --[1,424]--> inhabitants 2021",
+        "Raf --[wing:]--> Royal Air"
     ]
 }
