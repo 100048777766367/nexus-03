@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The",
-        "has spore",
         "Anna",
         "Anna Hvoslef",
         "One",
@@ -99,7 +97,9 @@
         "Several",
         "were completed",
         "Debar:",
-        "city the"
+        "city the",
+        "Mark",
+        "Mark Brnovich"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -158,6 +158,7 @@
         "Was --[first]--> performed the",
         "Momo --[mirage:]--> The Momo",
         "Several --[prototypes]--> were completed",
-        "Debar: --[debar]--> city the"
+        "Debar: --[debar]--> city the",
+        "Mark --[brnovich:]--> Mark Brnovich"
     ]
 }
