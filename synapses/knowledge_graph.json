@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Sukkwan",
-        "(film): Sukkwan",
-        "Kristen",
-        "Kristen Elise",
         "Gleicheniales:",
         "order ferns",
         "The",
@@ -99,7 +95,11 @@
         "describes the",
         "Life",
         "(play): Life",
-        "performed the"
+        "performed the",
+        "Momo",
+        "The Momo",
+        "Several",
+        "were completed"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -155,6 +155,8 @@
         "Raf --[wing:]--> Royal Air",
         "High-floor: --[high-floor]--> describes the",
         "Life --[riley]--> (play): Life",
-        "Was --[first]--> performed the"
+        "Was --[first]--> performed the",
+        "Momo --[mirage:]--> The Momo",
+        "Several --[prototypes]--> were completed"
     ]
 }
