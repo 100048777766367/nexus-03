@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Anna",
-        "Anna Hvoslef",
-        "One",
         "first female",
         "Middle Ages",
         "Panzergrenadier",
@@ -99,7 +96,10 @@
         "Debar:",
         "city the",
         "Mark",
-        "Mark Brnovich"
+        "Mark Brnovich",
+        "Key",
+        "Key Peele",
+        "Keegan-Michael"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -159,6 +159,8 @@
         "Momo --[mirage:]--> The Momo",
         "Several --[prototypes]--> were completed",
         "Debar: --[debar]--> city the",
-        "Mark --[brnovich:]--> Mark Brnovich"
+        "Mark --[brnovich:]--> Mark Brnovich",
+        "Key --[peele:]--> Key Peele",
+        "Was --[created]--> Keegan-Michael"
     ]
 }
