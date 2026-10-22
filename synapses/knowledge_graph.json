@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Gleicheniales:",
-        "order ferns",
         "The",
         "has spore",
         "Anna",
@@ -99,7 +97,9 @@
         "Momo",
         "The Momo",
         "Several",
-        "were completed"
+        "were completed",
+        "Debar:",
+        "city the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -157,6 +157,7 @@
         "Life --[riley]--> (play): Life",
         "Was --[first]--> performed the",
         "Momo --[mirage:]--> The Momo",
-        "Several --[prototypes]--> were completed"
+        "Several --[prototypes]--> were completed",
+        "Debar: --[debar]--> city the"
     ]
 }
