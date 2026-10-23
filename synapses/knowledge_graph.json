@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "first female",
-        "Middle Ages",
-        "Panzergrenadier",
-        "Großdeutschland: The",
         "Lyckeby:",
         "village Karlskrona",
         "Mariko",
@@ -99,7 +95,11 @@
         "Mark Brnovich",
         "Key",
         "Key Peele",
-        "Keegan-Michael"
+        "Keegan-Michael",
+        "Elsworth",
+        "House: The",
+        "The",
+        "was built"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -161,6 +161,8 @@
         "Debar: --[debar]--> city the",
         "Mark --[brnovich:]--> Mark Brnovich",
         "Key --[peele:]--> Key Peele",
-        "Was --[created]--> Keegan-Michael"
+        "Was --[created]--> Keegan-Michael",
+        "Elsworth --[snowden]--> House: The",
+        "The --[house]--> was built"
     ]
 }
