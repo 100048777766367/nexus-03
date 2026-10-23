@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Lyckeby:",
-        "village Karlskrona",
         "Mariko",
         "Mariko Sanjo",
         "Sir",
@@ -99,7 +97,9 @@
         "Elsworth",
         "House: The",
         "The",
-        "was built"
+        "was built",
+        "Worklight:",
+        "worklight high-intensity"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -163,6 +163,7 @@
         "Key --[peele:]--> Key Peele",
         "Was --[created]--> Keegan-Michael",
         "Elsworth --[snowden]--> House: The",
-        "The --[house]--> was built"
+        "The --[house]--> was built",
+        "Worklight: --[theater,]--> worklight high-intensity"
     ]
 }
