@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Sir",
-        "Comes Lunch:",
-        "Wodehouse,",
-        "features the",
         "Víctor",
         "Victor Manuel",
         "Trudering-riem:",
@@ -99,7 +95,11 @@
         "Worklight:",
         "worklight high-intensity",
         "Arthur",
-        "Vertical Lift"
+        "Vertical Lift",
+        "Law",
+        "British Columbia",
+        "113,",
+        "SCC leading"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -165,6 +165,8 @@
         "Elsworth --[snowden]--> House: The",
         "The --[house]--> was built",
         "Worklight: --[theater,]--> worklight high-intensity",
-        "Arthur --[kill]--> Vertical Lift"
+        "Arthur --[kill]--> Vertical Lift",
+        "Law --[society]--> British Columbia",
+        "113, --[2001]--> SCC leading"
     ]
 }
