@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Víctor",
-        "Victor Manuel",
         "Trudering-riem:",
         "the 15th",
         "Consists",
@@ -99,7 +97,9 @@
         "Law",
         "British Columbia",
         "113,",
-        "SCC leading"
+        "SCC leading",
+        "Armor",
+        "Armor Alley"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -167,6 +167,7 @@
         "Worklight: --[theater,]--> worklight high-intensity",
         "Arthur --[kill]--> Vertical Lift",
         "Law --[society]--> British Columbia",
-        "113, --[2001]--> SCC leading"
+        "113, --[2001]--> SCC leading",
+        "Armor --[alley:]--> Armor Alley"
     ]
 }
