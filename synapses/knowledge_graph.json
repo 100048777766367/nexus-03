@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Consists",
-        "two quarters",
-        "Iceland",
         "2019 European",
         "previously competed",
         "Whitby",
@@ -99,7 +96,10 @@
         "Armor",
         "Armor Alley",
         "Syria–russia",
-        "military bases:"
+        "military bases:",
+        "two-seat pusher",
+        "Armed",
+        "single"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -169,6 +169,8 @@
         "Law --[society]--> British Columbia",
         "113, --[2001]--> SCC leading",
         "Armor --[alley:]--> Armor Alley",
-        "Syria–russia --[memorandum]--> military bases:"
+        "Syria–russia --[memorandum]--> military bases:",
+        "Was --[british]--> two-seat pusher",
+        "Armed --[with]--> single"
     ]
 }
