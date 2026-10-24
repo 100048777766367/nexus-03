@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Trudering-riem:",
-        "the 15th",
         "Consists",
         "two quarters",
         "Iceland",
@@ -99,7 +97,9 @@
         "113,",
         "SCC leading",
         "Armor",
-        "Armor Alley"
+        "Armor Alley",
+        "Syria–russia",
+        "military bases:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -168,6 +168,7 @@
         "Arthur --[kill]--> Vertical Lift",
         "Law --[society]--> British Columbia",
         "113, --[2001]--> SCC leading",
-        "Armor --[alley:]--> Armor Alley"
+        "Armor --[alley:]--> Armor Alley",
+        "Syria–russia --[memorandum]--> military bases:"
     ]
 }
