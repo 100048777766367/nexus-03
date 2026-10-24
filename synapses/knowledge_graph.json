@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "2019 European",
-        "previously competed",
         "Whitby",
         "Cross: Whitby",
         "Włóczno:",
@@ -99,7 +97,9 @@
         "military bases:",
         "two-seat pusher",
         "Armed",
-        "single"
+        "single",
+        "Nexus-03:",
+        "tuệ lai"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -171,6 +171,7 @@
         "Armor --[alley:]--> Armor Alley",
         "Syria–russia --[memorandum]--> military bases:",
         "Was --[british]--> two-seat pusher",
-        "Armed --[with]--> single"
+        "Armed --[with]--> single",
+        "Nexus-03: --[trí]--> tuệ lai"
     ]
 }
