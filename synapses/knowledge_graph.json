@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Stump",
-        "cricket, the",
         "Stumping",
         "stumpe",
         "Kit",
@@ -99,7 +97,9 @@
         "Huon",
         "Huon Peninsula",
         "Discovery",
-        "Company: The"
+        "Company: The",
+        "Krelikiejmy:",
+        "village the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -175,6 +175,7 @@
         "Nexus-03: --[trí]--> tuệ lai",
         "Miyapur: --[miyapur,]--> neighbourhood the",
         "Huon --[peninsula:]--> Huon Peninsula",
-        "Discovery --[land]--> Company: The"
+        "Discovery --[land]--> Company: The",
+        "Krelikiejmy: --[krelikiejmy]--> village the"
     ]
 }
