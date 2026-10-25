@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Włóczno:",
-        "former village",
         "Gerrit",
         "(politician): Gerrit",
         "Stump",
@@ -99,7 +97,9 @@
         "Nexus-03:",
         "tuệ lai",
         "Miyapur:",
-        "neighbourhood the"
+        "neighbourhood the",
+        "Huon",
+        "Huon Peninsula"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -173,6 +173,7 @@
         "Was --[british]--> two-seat pusher",
         "Armed --[with]--> single",
         "Nexus-03: --[trí]--> tuệ lai",
-        "Miyapur: --[miyapur,]--> neighbourhood the"
+        "Miyapur: --[miyapur,]--> neighbourhood the",
+        "Huon --[peninsula:]--> Huon Peninsula"
     ]
 }
