@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Kit",
-        "Christopher Sebastian",
-        "Albert",
         "(physician): Albert",
         "Tibbits",
         "Tibbits House,",
@@ -99,7 +96,10 @@
         "Krelikiejmy:",
         "village the",
         "Hms",
-        "(1693): HMS"
+        "(1693): HMS",
+        "Unshakeable",
+        "song): Unshakeable",
+        "February 2020,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -177,6 +177,8 @@
         "Huon --[peninsula:]--> Huon Peninsula",
         "Discovery --[land]--> Company: The",
         "Krelikiejmy: --[krelikiejmy]--> village the",
-        "Hms --[sussex]--> (1693): HMS"
+        "Hms --[sussex]--> (1693): HMS",
+        "Unshakeable --[(planetboom]--> song): Unshakeable",
+        "Was --[released]--> February 2020,"
     ]
 }
