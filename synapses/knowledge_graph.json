@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "(physician): Albert",
-        "Tibbits",
-        "Tibbits House,",
-        "Good",
         "(Lucius album):",
         "Released",
         "Recordings, Mom",
@@ -99,7 +95,11 @@
         "(1693): HMS",
         "Unshakeable",
         "song): Unshakeable",
-        "February 2020,"
+        "February 2020,",
+        "Flat",
+        "(horse): Flat",
+        "Bred",
+        "won nine"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -179,6 +179,8 @@
         "Krelikiejmy: --[krelikiejmy]--> village the",
         "Hms --[sussex]--> (1693): HMS",
         "Unshakeable --[(planetboom]--> song): Unshakeable",
-        "Was --[released]--> February 2020,"
+        "Was --[released]--> February 2020,",
+        "Flat --[out]--> (horse): Flat",
+        "Bred --[florida,]--> won nine"
     ]
 }
