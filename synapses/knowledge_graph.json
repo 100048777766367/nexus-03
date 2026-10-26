@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Stumping",
-        "stumpe",
         "Kit",
         "Christopher Sebastian",
         "Albert",
@@ -99,7 +97,9 @@
         "Discovery",
         "Company: The",
         "Krelikiejmy:",
-        "village the"
+        "village the",
+        "Hms",
+        "(1693): HMS"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -176,6 +176,7 @@
         "Miyapur: --[miyapur,]--> neighbourhood the",
         "Huon --[peninsula:]--> Huon Peninsula",
         "Discovery --[land]--> Company: The",
-        "Krelikiejmy: --[krelikiejmy]--> village the"
+        "Krelikiejmy: --[krelikiejmy]--> village the",
+        "Hms --[sussex]--> (1693): HMS"
     ]
 }
