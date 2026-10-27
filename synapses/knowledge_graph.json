@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Region Manhuaçu:",
-        "Frédéric",
         "Frédéric Pottecher",
         "Dark",
         "Survey: The",
@@ -99,7 +97,9 @@
         "Yeni",
         "İdmanyurdu: Yeni",
         "team currently",
-        "The Edwin"
+        "The Edwin",
+        "Hswms",
+        "(1955): HSwMS"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -184,6 +184,7 @@
         "Bred --[florida,]--> won nine",
         "Yeni --[mersin]--> İdmanyurdu: Yeni",
         "The --[football]--> team currently",
-        "The --[edwin:]--> The Edwin"
+        "The --[edwin:]--> The Edwin",
+        "Hswms --[sälen]--> (1955): HSwMS"
     ]
 }
