@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Immediate",
         "Region Manhuaçu:",
         "Frédéric",
         "Frédéric Pottecher",
@@ -99,7 +98,8 @@
         "won nine",
         "Yeni",
         "İdmanyurdu: Yeni",
-        "team currently"
+        "team currently",
+        "The Edwin"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -183,6 +183,7 @@
         "Flat --[out]--> (horse): Flat",
         "Bred --[florida,]--> won nine",
         "Yeni --[mersin]--> İdmanyurdu: Yeni",
-        "The --[football]--> team currently"
+        "The --[football]--> team currently",
+        "The --[edwin:]--> The Edwin"
     ]
 }
