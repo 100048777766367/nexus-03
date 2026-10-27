@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "(Lucius album):",
-        "Released",
-        "Recordings, Mom",
         "Immediate",
         "Region Manhuaçu:",
         "Frédéric",
@@ -99,7 +96,10 @@
         "Flat",
         "(horse): Flat",
         "Bred",
-        "won nine"
+        "won nine",
+        "Yeni",
+        "İdmanyurdu: Yeni",
+        "team currently"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -181,6 +181,8 @@
         "Unshakeable --[(planetboom]--> song): Unshakeable",
         "Was --[released]--> February 2020,",
         "Flat --[out]--> (horse): Flat",
-        "Bred --[florida,]--> won nine"
+        "Bred --[florida,]--> won nine",
+        "Yeni --[mersin]--> İdmanyurdu: Yeni",
+        "The --[football]--> team currently"
     ]
 }
