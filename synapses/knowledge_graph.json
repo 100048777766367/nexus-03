@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "originated and",
-        "Clarence",
-        "III: Clarence",
         "Laura",
         "Laura Neboli",
         "Grzegorz",
@@ -99,7 +96,10 @@
         "Parilimya",
         "Parilimya waitotarana",
         "Fossils",
-        "species date"
+        "species date",
+        "Zingara: The",
+        "Gilbert's",
+        "burlesques opera"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -188,6 +188,8 @@
         "Hswms --[sälen]--> (1955): HSwMS",
         "17th --[sustainment]--> Brigade (United",
         "Parilimya --[waitotarana:]--> Parilimya waitotarana",
-        "Fossils --[the]--> species date"
+        "Fossils --[the]--> species date",
+        "The --[merry]--> Zingara: The",
+        "Gilbert's --[five]--> burlesques opera"
     ]
 }
