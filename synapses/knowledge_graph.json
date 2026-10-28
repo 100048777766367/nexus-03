@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Frédéric Pottecher",
-        "Dark",
         "Survey: The",
         "Las",
         "Codex: The",
@@ -99,7 +97,9 @@
         "team currently",
         "The Edwin",
         "Hswms",
-        "(1955): HSwMS"
+        "(1955): HSwMS",
+        "17th",
+        "Brigade (United"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -185,6 +185,7 @@
         "Yeni --[mersin]--> İdmanyurdu: Yeni",
         "The --[football]--> team currently",
         "The --[edwin:]--> The Edwin",
-        "Hswms --[sälen]--> (1955): HSwMS"
+        "Hswms --[sälen]--> (1955): HSwMS",
+        "17th --[sustainment]--> Brigade (United"
     ]
 }
