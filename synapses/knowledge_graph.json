@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Survey: The",
-        "Las",
-        "Codex: The",
-        "1300",
         "originated and",
         "Clarence",
         "III: Clarence",
@@ -99,7 +95,11 @@
         "Hswms",
         "(1955): HSwMS",
         "17th",
-        "Brigade (United"
+        "Brigade (United",
+        "Parilimya",
+        "Parilimya waitotarana",
+        "Fossils",
+        "species date"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -186,6 +186,8 @@
         "The --[football]--> team currently",
         "The --[edwin:]--> The Edwin",
         "Hswms --[sälen]--> (1955): HSwMS",
-        "17th --[sustainment]--> Brigade (United"
+        "17th --[sustainment]--> Brigade (United",
+        "Parilimya --[waitotarana:]--> Parilimya waitotarana",
+        "Fossils --[the]--> species date"
     ]
 }

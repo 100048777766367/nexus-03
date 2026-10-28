@@ -3,39 +3,39 @@
     "node_dna": {
         "identity": "100048777766367/nexus-03",
         "generation": "F3_AUTOGENIC_NEURO_SYMBOLIC_NEXUS",
-        "generation_epoch": 104,
+        "generation_epoch": 105,
         "architecture": "Nexus03_Autogenic_Microkernel",
-        "knowledge_graph": "Entities:100, Edges:85",
-        "prev_cid": "0903fa57952c50aba7b1e6bf1f5a4b0f516b19a7defc886ac6202ff093a804dd885e7393ab611dd514ef0aff51d3c656c0c5d69f35191d3ab8c9835e0456f7c8"
+        "knowledge_graph": "Entities:100, Edges:87",
+        "prev_cid": "34dfd0037aeec45a1b0dc854139fb9f1338445a268ab5cee4136ca6e00d2b3cab7fafab5ad5b348f9145c33d4c64455c7117e2774241ec6aa0a8305422b6a2ec"
     },
-    "generation_epoch": 104,
-    "timestamp": 1793167095,
-    "decision": 0.7375,
+    "generation_epoch": 105,
+    "timestamp": 1793200489,
+    "decision": 0.7187,
     "command_pulse": [
-        0.7375,
-        0.2625
+        0.7187,
+        0.2813
     ],
     "features": [
-        0.7375,
-        0.2625
+        0.7187,
+        0.2813
     ],
     "directed_commands": {
         "retina": {
             "action": "adjust_focus",
-            "sensitivity": 1.1063,
+            "sensitivity": 1.078,
             "attention_gate": "high"
         },
         "motor": {
             "action": "contract_or_relax",
             "torque_pulse": [
-                0.7375,
-                0.2625
+                0.7187,
+                0.2813
             ],
-            "intensity": 0.475
+            "intensity": 0.4374
         },
         "monad": {
             "action": "dialectical_synthesis",
-            "bias_shift": 0.2375
+            "bias_shift": 0.2187
         }
     },
     "gossip_network": [
@@ -54,5 +54,5 @@
         "100048777766367/motor",
         "100048777766367/genome"
     ],
-    "quantum_cid": "34dfd0037aeec45a1b0dc854139fb9f1338445a268ab5cee4136ca6e00d2b3cab7fafab5ad5b348f9145c33d4c64455c7117e2774241ec6aa0a8305422b6a2ec"
+    "quantum_cid": "ffe778e7d97d1baa1e1dac82ea3d6a1fef5e07d9d05fbfc600b7192e693ccb4e6090034a655f71eec84d1f8d3b3b69e39f24fe6c502d9d6f61bbe0feef06f8e6"
 }
