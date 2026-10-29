@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "men's Division",
-        "Rudi",
         "Ronald \"Rudi\"",
         "Was",
         "the founders",
@@ -99,7 +97,9 @@
         "May Rhyme:",
         "1995 Trance",
         "Ambulyx",
-        "Ambulyx johnsoni"
+        "Ambulyx johnsoni",
+        "Parks",
+        "Recreation season"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -193,6 +193,7 @@
         "Gilbert's --[five]--> burlesques opera",
         "All --[that]--> May Rhyme:",
         "Was --[released]--> 1995 Trance",
-        "Ambulyx --[johnsoni:]--> Ambulyx johnsoni"
+        "Ambulyx --[johnsoni:]--> Ambulyx johnsoni",
+        "Parks --[and]--> Recreation season"
     ]
 }
