@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Grzegorz Marek",
-        "Competed",
         "men's Division",
         "Rudi",
         "Ronald \"Rudi\"",
@@ -99,7 +97,9 @@
         "burlesques opera",
         "All",
         "May Rhyme:",
-        "1995 Trance"
+        "1995 Trance",
+        "Ambulyx",
+        "Ambulyx johnsoni"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -192,6 +192,7 @@
         "The --[merry]--> Zingara: The",
         "Gilbert's --[five]--> burlesques opera",
         "All --[that]--> May Rhyme:",
-        "Was --[released]--> 1995 Trance"
+        "Was --[released]--> 1995 Trance",
+        "Ambulyx --[johnsoni:]--> Ambulyx johnsoni"
     ]
 }
