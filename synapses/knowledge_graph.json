@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Laura",
-        "Laura Neboli",
-        "Grzegorz",
         "Grzegorz Marek",
         "Competed",
         "men's Division",
@@ -99,7 +96,10 @@
         "species date",
         "Zingara: The",
         "Gilbert's",
-        "burlesques opera"
+        "burlesques opera",
+        "All",
+        "May Rhyme:",
+        "1995 Trance"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -190,6 +190,8 @@
         "Parilimya --[waitotarana:]--> Parilimya waitotarana",
         "Fossils --[the]--> species date",
         "The --[merry]--> Zingara: The",
-        "Gilbert's --[five]--> burlesques opera"
+        "Gilbert's --[five]--> burlesques opera",
+        "All --[that]--> May Rhyme:",
+        "Was --[released]--> 1995 Trance"
     ]
 }
