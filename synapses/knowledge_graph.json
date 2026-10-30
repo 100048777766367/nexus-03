@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "film): Milap",
-        "featured Dev",
         "Meal",
         "meal replacement",
         "Intended",
@@ -99,7 +97,9 @@
         "New",
         "Town Hall:",
         "Constructed",
-        "gritsto"
+        "gritsto",
+        "Commerce",
+        "Commerce raiding"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -196,6 +196,7 @@
         "Ambulyx --[johnsoni:]--> Ambulyx johnsoni",
         "Parks --[and]--> Recreation season",
         "New --[mills]--> Town Hall:",
-        "Constructed --[local]--> gritsto"
+        "Constructed --[local]--> gritsto",
+        "Commerce --[raiding:]--> Commerce raiding"
     ]
 }
