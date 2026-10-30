@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Meal",
-        "meal replacement",
         "Intended",
         "for solid",
         "Pressure:",
@@ -99,7 +97,9 @@
         "Constructed",
         "gritsto",
         "Commerce",
-        "Commerce raiding"
+        "Commerce raiding",
+        "Byrd's",
+        "Church: Byrd's"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -197,6 +197,7 @@
         "Parks --[and]--> Recreation season",
         "New --[mills]--> Town Hall:",
         "Constructed --[local]--> gritsto",
-        "Commerce --[raiding:]--> Commerce raiding"
+        "Commerce --[raiding:]--> Commerce raiding",
+        "Byrd's --[ame]--> Church: Byrd's"
     ]
 }
