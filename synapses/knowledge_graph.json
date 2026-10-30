@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Ronald \"Rudi\"",
-        "Was",
-        "the founders",
-        "Milap",
         "film): Milap",
         "featured Dev",
         "Meal",
@@ -99,7 +95,11 @@
         "Ambulyx",
         "Ambulyx johnsoni",
         "Parks",
-        "Recreation season"
+        "Recreation season",
+        "New",
+        "Town Hall:",
+        "Constructed",
+        "gritsto"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -194,6 +194,8 @@
         "All --[that]--> May Rhyme:",
         "Was --[released]--> 1995 Trance",
         "Ambulyx --[johnsoni:]--> Ambulyx johnsoni",
-        "Parks --[and]--> Recreation season"
+        "Parks --[and]--> Recreation season",
+        "New --[mills]--> Town Hall:",
+        "Constructed --[local]--> gritsto"
     ]
 }
