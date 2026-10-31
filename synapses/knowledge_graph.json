@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Km2)",
-        "marsh that",
-        "Bárbara",
-        "Bárbara Channel",
         "Livezile,",
         "Livezile commune",
         "Has",
@@ -99,7 +95,11 @@
         "Gwyddelwern:",
         "small village",
         "Bad",
-        "Bad Bodenteich"
+        "Bad Bodenteich",
+        "Micronoctua:",
+        "monotypic moth",
+        "Its",
+        "species, Micronoctua"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -201,6 +201,8 @@
         "Byrd's --[ame]--> Church: Byrd's",
         "Acacia --[havilandiorum:]--> Acacia havilandiorum,",
         "Gwyddelwern: --[gwyddelwern]--> small village",
-        "Bad --[bodenteich:]--> Bad Bodenteich"
+        "Bad --[bodenteich:]--> Bad Bodenteich",
+        "Micronoctua: --[micronoctua]--> monotypic moth",
+        "Its --[only]--> species, Micronoctua"
     ]
 }
