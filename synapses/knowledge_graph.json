@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Waccasassa",
-        "Preserve State",
         "Km2)",
         "marsh that",
         "Bárbara",
@@ -99,7 +97,9 @@
         "Acacia",
         "Acacia havilandiorum,",
         "Gwyddelwern:",
-        "small village"
+        "small village",
+        "Bad",
+        "Bad Bodenteich"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -200,6 +200,7 @@
         "Commerce --[raiding:]--> Commerce raiding",
         "Byrd's --[ame]--> Church: Byrd's",
         "Acacia --[havilandiorum:]--> Acacia havilandiorum,",
-        "Gwyddelwern: --[gwyddelwern]--> small village"
+        "Gwyddelwern: --[gwyddelwern]--> small village",
+        "Bad --[bodenteich:]--> Bad Bodenteich"
     ]
 }
