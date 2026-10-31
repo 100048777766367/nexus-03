@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Intended",
-        "for solid",
         "Pressure:",
         "the force",
         "Waccasassa",
@@ -99,7 +97,9 @@
         "Commerce",
         "Commerce raiding",
         "Byrd's",
-        "Church: Byrd's"
+        "Church: Byrd's",
+        "Acacia",
+        "Acacia havilandiorum,"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -198,6 +198,7 @@
         "New --[mills]--> Town Hall:",
         "Constructed --[local]--> gritsto",
         "Commerce --[raiding:]--> Commerce raiding",
-        "Byrd's --[ame]--> Church: Byrd's"
+        "Byrd's --[ame]--> Church: Byrd's",
+        "Acacia --[havilandiorum:]--> Acacia havilandiorum,"
     ]
 }
