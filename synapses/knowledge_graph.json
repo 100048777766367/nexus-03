@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Pressure:",
-        "the force",
         "Waccasassa",
         "Preserve State",
         "Km2)",
@@ -99,7 +97,9 @@
         "Byrd's",
         "Church: Byrd's",
         "Acacia",
-        "Acacia havilandiorum,"
+        "Acacia havilandiorum,",
+        "Gwyddelwern:",
+        "small village"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -199,6 +199,7 @@
         "Constructed --[local]--> gritsto",
         "Commerce --[raiding:]--> Commerce raiding",
         "Byrd's --[ame]--> Church: Byrd's",
-        "Acacia --[havilandiorum:]--> Acacia havilandiorum,"
+        "Acacia --[havilandiorum:]--> Acacia havilandiorum,",
+        "Gwyddelwern: --[gwyddelwern]--> small village"
     ]
 }
