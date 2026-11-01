@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Livezile,",
-        "Livezile commune",
         "Has",
         "inhabitants 2021",
         "Raf",
@@ -99,7 +97,9 @@
         "Micronoctua:",
         "monotypic moth",
         "Its",
-        "species, Micronoctua"
+        "species, Micronoctua",
+        "William",
+        "Pettett: William"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -203,6 +203,7 @@
         "Gwyddelwern: --[gwyddelwern]--> small village",
         "Bad --[bodenteich:]--> Bad Bodenteich",
         "Micronoctua: --[micronoctua]--> monotypic moth",
-        "Its --[only]--> species, Micronoctua"
+        "Its --[only]--> species, Micronoctua",
+        "William --[henry]--> Pettett: William"
     ]
 }
