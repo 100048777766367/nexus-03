@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Has",
-        "inhabitants 2021",
         "Raf",
         "Royal Air",
         "High-floor:",
@@ -99,7 +97,9 @@
         "Its",
         "species, Micronoctua",
         "William",
-        "Pettett: William"
+        "Pettett: William",
+        "Nast",
+        "United Methodist"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -204,6 +204,7 @@
         "Bad --[bodenteich:]--> Bad Bodenteich",
         "Micronoctua: --[micronoctua]--> monotypic moth",
         "Its --[only]--> species, Micronoctua",
-        "William --[henry]--> Pettett: William"
+        "William --[henry]--> Pettett: William",
+        "Nast --[trinity]--> United Methodist"
     ]
 }
