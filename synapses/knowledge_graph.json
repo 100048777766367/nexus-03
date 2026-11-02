@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Raf",
-        "Royal Air",
         "High-floor:",
         "describes the",
         "Life",
@@ -99,7 +97,9 @@
         "William",
         "Pettett: William",
         "Nast",
-        "United Methodist"
+        "United Methodist",
+        "Pycnochromis",
+        "Pycnochromis acares"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -205,6 +205,7 @@
         "Micronoctua: --[micronoctua]--> monotypic moth",
         "Its --[only]--> species, Micronoctua",
         "William --[henry]--> Pettett: William",
-        "Nast --[trinity]--> United Methodist"
+        "Nast --[trinity]--> United Methodist",
+        "Pycnochromis --[acares:]--> Pycnochromis acares"
     ]
 }
