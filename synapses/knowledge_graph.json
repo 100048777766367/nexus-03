@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "High-floor:",
-        "describes the",
-        "Life",
-        "(play): Life",
         "performed the",
         "Momo",
         "The Momo",
@@ -99,7 +95,11 @@
         "Nast",
         "United Methodist",
         "Pycnochromis",
-        "Pycnochromis acares"
+        "Pycnochromis acares",
+        "Fantastic",
+        "Fantastic Light",
+        "Was",
+        "the United"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -206,6 +206,8 @@
         "Its --[only]--> species, Micronoctua",
         "William --[henry]--> Pettett: William",
         "Nast --[trinity]--> United Methodist",
-        "Pycnochromis --[acares:]--> Pycnochromis acares"
+        "Pycnochromis --[acares:]--> Pycnochromis acares",
+        "Fantastic --[light:]--> Fantastic Light",
+        "Was --[foaled]--> the United"
     ]
 }
