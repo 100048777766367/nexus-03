@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "performed the",
-        "Momo",
-        "The Momo",
         "Several",
         "were completed",
         "Debar:",
@@ -99,7 +96,10 @@
         "Fantastic",
         "Fantastic Light",
         "Was",
-        "the United"
+        "the United",
+        "Heapey:",
+        "village and",
+        "two miles"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -208,6 +208,8 @@
         "Nast --[trinity]--> United Methodist",
         "Pycnochromis --[acares:]--> Pycnochromis acares",
         "Fantastic --[light:]--> Fantastic Light",
-        "Was --[foaled]--> the United"
+        "Was --[foaled]--> the United",
+        "Heapey: --[heapey]--> village and",
+        "The --[village]--> two miles"
     ]
 }
