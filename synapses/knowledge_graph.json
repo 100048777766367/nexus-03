@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Several",
-        "were completed",
         "Debar:",
         "city the",
         "Mark",
@@ -99,7 +97,9 @@
         "the United",
         "Heapey:",
         "village and",
-        "two miles"
+        "two miles",
+        "Odd",
+        "Willoch: Odd"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -210,6 +210,7 @@
         "Fantastic --[light:]--> Fantastic Light",
         "Was --[foaled]--> the United",
         "Heapey: --[heapey]--> village and",
-        "The --[village]--> two miles"
+        "The --[village]--> two miles",
+        "Odd --[isaachsen]--> Willoch: Odd"
     ]
 }
