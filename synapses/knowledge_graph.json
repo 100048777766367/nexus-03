@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "Key",
         "Key Peele",
         "Keegan-Michael",
         "Elsworth",
@@ -99,7 +98,8 @@
         "Township, Michigan:",
         "census, the",
         "Malancourt:",
-        "commune the"
+        "commune the",
+        "Kołczewo:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -214,6 +214,7 @@
         "Odd --[isaachsen]--> Willoch: Odd",
         "New --[buffalo]--> Township, Michigan:",
         "The --[2020]--> census, the",
-        "Malancourt: --[malancourt]--> commune the"
+        "Malancourt: --[malancourt]--> commune the",
+        "Kołczewo: --[kołczewo]--> village the"
     ]
 }
