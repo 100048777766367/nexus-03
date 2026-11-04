@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Mark",
-        "Mark Brnovich",
         "Key",
         "Key Peele",
         "Keegan-Michael",
@@ -99,7 +97,9 @@
         "Odd",
         "Willoch: Odd",
         "Township, Michigan:",
-        "census, the"
+        "census, the",
+        "Malancourt:",
+        "commune the"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -213,6 +213,7 @@
         "The --[village]--> two miles",
         "Odd --[isaachsen]--> Willoch: Odd",
         "New --[buffalo]--> Township, Michigan:",
-        "The --[2020]--> census, the"
+        "The --[2020]--> census, the",
+        "Malancourt: --[malancourt]--> commune the"
     ]
 }
