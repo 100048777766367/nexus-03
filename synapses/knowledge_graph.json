@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Elsworth",
-        "House: The",
         "The",
         "was built",
         "Worklight:",
@@ -99,7 +97,9 @@
         "commune the",
         "Kołczewo:",
         "Cask'n",
-        "The Cask"
+        "The Cask",
+        "Xanthoparmelia",
+        "Xanthoparmelia saniensis"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -216,6 +216,7 @@
         "The --[2020]--> census, the",
         "Malancourt: --[malancourt]--> commune the",
         "Kołczewo: --[kołczewo]--> village the",
-        "Cask'n --[flagon:]--> The Cask"
+        "Cask'n --[flagon:]--> The Cask",
+        "Xanthoparmelia --[saniensis:]--> Xanthoparmelia saniensis"
     ]
 }
