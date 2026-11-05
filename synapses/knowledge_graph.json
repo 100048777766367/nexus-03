@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The",
-        "was built",
         "Worklight:",
         "worklight high-intensity",
         "Arthur",
@@ -99,7 +97,9 @@
         "Cask'n",
         "The Cask",
         "Xanthoparmelia",
-        "Xanthoparmelia saniensis"
+        "Xanthoparmelia saniensis",
+        "Bill",
+        "William Courtland"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -217,6 +217,7 @@
         "Malancourt: --[malancourt]--> commune the",
         "Kołczewo: --[kołczewo]--> village the",
         "Cask'n --[flagon:]--> The Cask",
-        "Xanthoparmelia --[saniensis:]--> Xanthoparmelia saniensis"
+        "Xanthoparmelia --[saniensis:]--> Xanthoparmelia saniensis",
+        "Bill --[lantaff:]--> William Courtland"
     ]
 }
