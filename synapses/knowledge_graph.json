@@ -1,6 +1,5 @@
 {
     "nodes": [
-        "113,",
         "SCC leading",
         "Armor",
         "Armor Alley",
@@ -99,7 +98,8 @@
         "Star",
         "Star Dojran",
         "The",
-        "the municipality"
+        "the municipality",
+        "Church, Goxhill:"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -221,6 +221,7 @@
         "Bill --[lantaff:]--> William Courtland",
         "India --[martínez:]--> Jenifer Yésica",
         "Star --[dojran:]--> Star Dojran",
-        "The --[seat]--> the municipality"
+        "The --[seat]--> the municipality",
+        "All --[saints]--> Church, Goxhill:"
     ]
 }
