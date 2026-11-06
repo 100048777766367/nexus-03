@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Worklight:",
-        "worklight high-intensity",
         "Arthur",
         "Vertical Lift",
         "Law",
@@ -99,7 +97,9 @@
         "Xanthoparmelia",
         "Xanthoparmelia saniensis",
         "Bill",
-        "William Courtland"
+        "William Courtland",
+        "India",
+        "Jenifer Yésica"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -218,6 +218,7 @@
         "Kołczewo: --[kołczewo]--> village the",
         "Cask'n --[flagon:]--> The Cask",
         "Xanthoparmelia --[saniensis:]--> Xanthoparmelia saniensis",
-        "Bill --[lantaff:]--> William Courtland"
+        "Bill --[lantaff:]--> William Courtland",
+        "India --[martínez:]--> Jenifer Yésica"
     ]
 }
