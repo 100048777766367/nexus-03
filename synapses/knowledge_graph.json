@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "SCC leading",
-        "Armor",
         "Armor Alley",
         "Syria–russia",
         "military bases:",
@@ -99,7 +97,9 @@
         "Star Dojran",
         "The",
         "the municipality",
-        "Church, Goxhill:"
+        "Church, Goxhill:",
+        "Theatre:",
+        "Theatre music"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -222,6 +222,7 @@
         "India --[martínez:]--> Jenifer Yésica",
         "Star --[dojran:]--> Star Dojran",
         "The --[seat]--> the municipality",
-        "All --[saints]--> Church, Goxhill:"
+        "All --[saints]--> Church, Goxhill:",
+        "Theatre: --[the]--> Theatre music"
     ]
 }
