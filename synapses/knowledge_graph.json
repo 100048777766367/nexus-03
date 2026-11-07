@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Nexus-03:",
-        "tuệ lai",
-        "Miyapur:",
         "neighbourhood the",
         "Huon",
         "Huon Peninsula",
@@ -99,7 +96,10 @@
         "Hayden",
         "politician and",
         "Member",
-        "Minnesota Democra"
+        "Minnesota Democra",
+        "Tahmasp",
+        "was the",
+        "eldest son"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -226,6 +226,8 @@
         "Theatre: --[the]--> Theatre music",
         "Jeff --[hayden:]--> Jeffrey",
         "Hayden --[american]--> politician and",
-        "Member --[the]--> Minnesota Democra"
+        "Member --[the]--> Minnesota Democra",
+        "Tahmasp --[tahmasp]--> was the",
+        "Was --[the]--> eldest son"
     ]
 }
