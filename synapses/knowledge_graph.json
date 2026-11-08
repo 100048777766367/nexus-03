@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Company: The",
-        "Krelikiejmy:",
         "village the",
         "Hms",
         "(1693): HMS",
@@ -99,7 +97,9 @@
         "Ikaw",
         "Ikaw Pag-Ibig",
         "Pomona,",
-        "Pomona Maya"
+        "Pomona Maya",
+        "Otobong",
+        "Otobong Nkanga"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -230,6 +230,7 @@
         "Tahmasp --[tahmasp]--> was the",
         "Was --[the]--> eldest son",
         "Ikaw --[pag-ibig:]--> Ikaw Pag-Ibig",
-        "Pomona, --[tabasco:]--> Pomona Maya"
+        "Pomona, --[tabasco:]--> Pomona Maya",
+        "Otobong --[nkanga:]--> Otobong Nkanga"
     ]
 }
