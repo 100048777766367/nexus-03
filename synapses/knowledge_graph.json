@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "village the",
-        "Hms",
-        "(1693): HMS",
         "Unshakeable",
         "song): Unshakeable",
         "February 2020,",
@@ -99,7 +96,10 @@
         "Pomona,",
         "Pomona Maya",
         "Otobong",
-        "Otobong Nkanga"
+        "Otobong Nkanga",
+        "Jordan,",
+        "Jordan neighborhood",
+        "are Lowry"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -231,6 +231,8 @@
         "Was --[the]--> eldest son",
         "Ikaw --[pag-ibig:]--> Ikaw Pag-Ibig",
         "Pomona, --[tabasco:]--> Pomona Maya",
-        "Otobong --[nkanga:]--> Otobong Nkanga"
+        "Otobong --[nkanga:]--> Otobong Nkanga",
+        "Jordan, --[minneapolis:]--> Jordan neighborhood",
+        "Its --[boundaries]--> are Lowry"
     ]
 }
