@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Huon Peninsula",
-        "Discovery",
         "Company: The",
         "Krelikiejmy:",
         "village the",
@@ -99,7 +97,9 @@
         "was the",
         "eldest son",
         "Ikaw",
-        "Ikaw Pag-Ibig"
+        "Ikaw Pag-Ibig",
+        "Pomona,",
+        "Pomona Maya"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -229,6 +229,7 @@
         "Member --[the]--> Minnesota Democra",
         "Tahmasp --[tahmasp]--> was the",
         "Was --[the]--> eldest son",
-        "Ikaw --[pag-ibig:]--> Ikaw Pag-Ibig"
+        "Ikaw --[pag-ibig:]--> Ikaw Pag-Ibig",
+        "Pomona, --[tabasco:]--> Pomona Maya"
     ]
 }
