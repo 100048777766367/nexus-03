@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "February 2020,",
-        "Flat",
         "(horse): Flat",
         "Bred",
         "won nine",
@@ -99,7 +97,9 @@
         "Jordan neighborhood",
         "are Lowry",
         "Burgstall:",
-        "German term"
+        "German term",
+        "American",
+        "League: The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -234,6 +234,7 @@
         "Otobong --[nkanga:]--> Otobong Nkanga",
         "Jordan, --[minneapolis:]--> Jordan neighborhood",
         "Its --[boundaries]--> are Lowry",
-        "Burgstall: --[burgstall]--> German term"
+        "Burgstall: --[burgstall]--> German term",
+        "American --[football]--> League: The"
     ]
 }
