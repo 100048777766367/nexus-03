@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Unshakeable",
-        "song): Unshakeable",
         "February 2020,",
         "Flat",
         "(horse): Flat",
@@ -99,7 +97,9 @@
         "Otobong Nkanga",
         "Jordan,",
         "Jordan neighborhood",
-        "are Lowry"
+        "are Lowry",
+        "Burgstall:",
+        "German term"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -233,6 +233,7 @@
         "Pomona, --[tabasco:]--> Pomona Maya",
         "Otobong --[nkanga:]--> Otobong Nkanga",
         "Jordan, --[minneapolis:]--> Jordan neighborhood",
-        "Its --[boundaries]--> are Lowry"
+        "Its --[boundaries]--> are Lowry",
+        "Burgstall: --[burgstall]--> German term"
     ]
 }
