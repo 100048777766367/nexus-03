@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "(horse): Flat",
-        "Bred",
-        "won nine",
         "Yeni",
         "İdmanyurdu: Yeni",
         "team currently",
@@ -99,7 +96,10 @@
         "Burgstall:",
         "German term",
         "American",
-        "League: The"
+        "League: The",
+        "Glorioso",
+        "Quem Nunca",
+        "was"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -235,6 +235,8 @@
         "Jordan, --[minneapolis:]--> Jordan neighborhood",
         "Its --[boundaries]--> are Lowry",
         "Burgstall: --[burgstall]--> German term",
-        "American --[football]--> League: The"
+        "American --[football]--> League: The",
+        "Glorioso --[retorno]--> Quem Nunca",
+        "The --[album]--> was"
     ]
 }
