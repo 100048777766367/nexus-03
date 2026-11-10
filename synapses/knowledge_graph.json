@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Yeni",
-        "İdmanyurdu: Yeni",
-        "team currently",
-        "The Edwin",
         "Hswms",
         "(1955): HSwMS",
         "17th",
@@ -99,7 +95,11 @@
         "League: The",
         "Glorioso",
         "Quem Nunca",
-        "was"
+        "was",
+        "Triumph",
+        "The Triumph",
+        "Originally",
+        "Edwar"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -237,6 +237,8 @@
         "Burgstall: --[burgstall]--> German term",
         "American --[football]--> League: The",
         "Glorioso --[retorno]--> Quem Nunca",
-        "The --[album]--> was"
+        "The --[album]--> was",
+        "Triumph --[bandit:]--> The Triumph",
+        "Originally --[designed]--> Edwar"
     ]
 }
