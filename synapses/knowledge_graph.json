@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Hswms",
-        "(1955): HSwMS",
         "17th",
         "Brigade (United",
         "Parilimya",
@@ -99,7 +97,9 @@
         "Triumph",
         "The Triumph",
         "Originally",
-        "Edwar"
+        "Edwar",
+        "Ángel",
+        "Ángel Piqueras"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -239,6 +239,7 @@
         "Glorioso --[retorno]--> Quem Nunca",
         "The --[album]--> was",
         "Triumph --[bandit:]--> The Triumph",
-        "Originally --[designed]--> Edwar"
+        "Originally --[designed]--> Edwar",
+        "Ángel --[piqueras:]--> Ángel Piqueras"
     ]
 }
