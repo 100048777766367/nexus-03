@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "species date",
-        "Zingara: The",
         "Gilbert's",
         "burlesques opera",
         "All",
@@ -99,7 +97,9 @@
         "Badajoz (1811):",
         "House, Stoke",
         "One",
-        "more prominent"
+        "more prominent",
+        "Viktoriya",
+        "Viktoriya Kravchenko"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -243,6 +243,7 @@
         "Ángel --[piqueras:]--> Ángel Piqueras",
         "Second --[siege]--> Badajoz (1811):",
         "The --[dower]--> House, Stoke",
-        "One --[bristol's]--> more prominent"
+        "One --[bristol's]--> more prominent",
+        "Viktoriya --[kravchenko:]--> Viktoriya Kravchenko"
     ]
 }
