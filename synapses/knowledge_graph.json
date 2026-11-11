@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Parilimya",
-        "Parilimya waitotarana",
-        "Fossils",
         "species date",
         "Zingara: The",
         "Gilbert's",
@@ -99,7 +96,10 @@
         "Ángel",
         "Ángel Piqueras",
         "Second",
-        "Badajoz (1811):"
+        "Badajoz (1811):",
+        "House, Stoke",
+        "One",
+        "more prominent"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -241,6 +241,8 @@
         "Triumph --[bandit:]--> The Triumph",
         "Originally --[designed]--> Edwar",
         "Ángel --[piqueras:]--> Ángel Piqueras",
-        "Second --[siege]--> Badajoz (1811):"
+        "Second --[siege]--> Badajoz (1811):",
+        "The --[dower]--> House, Stoke",
+        "One --[bristol's]--> more prominent"
     ]
 }
