@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "17th",
-        "Brigade (United",
         "Parilimya",
         "Parilimya waitotarana",
         "Fossils",
@@ -99,7 +97,9 @@
         "Originally",
         "Edwar",
         "Ángel",
-        "Ángel Piqueras"
+        "Ángel Piqueras",
+        "Second",
+        "Badajoz (1811):"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -240,6 +240,7 @@
         "The --[album]--> was",
         "Triumph --[bandit:]--> The Triumph",
         "Originally --[designed]--> Edwar",
-        "Ángel --[piqueras:]--> Ángel Piqueras"
+        "Ángel --[piqueras:]--> Ángel Piqueras",
+        "Second --[siege]--> Badajoz (1811):"
     ]
 }
