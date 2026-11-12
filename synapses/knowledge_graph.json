@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "All",
-        "May Rhyme:",
         "1995 Trance",
         "Ambulyx",
         "Ambulyx johnsoni",
@@ -99,7 +97,9 @@
         "Viktoriya",
         "Viktoriya Kravchenko",
         "Emanuel",
-        "Webb: Emanuel"
+        "Webb: Emanuel",
+        "Isle",
+        "Festival: The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -245,6 +245,7 @@
         "The --[dower]--> House, Stoke",
         "One --[bristol's]--> more prominent",
         "Viktoriya --[kravchenko:]--> Viktoriya Kravchenko",
-        "Emanuel --[lovell]--> Webb: Emanuel"
+        "Emanuel --[lovell]--> Webb: Emanuel",
+        "Isle --[wight]--> Festival: The"
     ]
 }
