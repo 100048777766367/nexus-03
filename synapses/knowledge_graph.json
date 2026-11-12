@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Gilbert's",
-        "burlesques opera",
         "All",
         "May Rhyme:",
         "1995 Trance",
@@ -99,7 +97,9 @@
         "One",
         "more prominent",
         "Viktoriya",
-        "Viktoriya Kravchenko"
+        "Viktoriya Kravchenko",
+        "Emanuel",
+        "Webb: Emanuel"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -244,6 +244,7 @@
         "Second --[siege]--> Badajoz (1811):",
         "The --[dower]--> House, Stoke",
         "One --[bristol's]--> more prominent",
-        "Viktoriya --[kravchenko:]--> Viktoriya Kravchenko"
+        "Viktoriya --[kravchenko:]--> Viktoriya Kravchenko",
+        "Emanuel --[lovell]--> Webb: Emanuel"
     ]
 }
