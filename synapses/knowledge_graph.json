@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "1995 Trance",
-        "Ambulyx",
-        "Ambulyx johnsoni",
-        "Parks",
         "Recreation season",
         "New",
         "Town Hall:",
@@ -99,7 +95,11 @@
         "Emanuel",
         "Webb: Emanuel",
         "Isle",
-        "Festival: The"
+        "Festival: The",
+        "Visiline",
+        "Visiline Jepkesho",
+        "She",
+        "the marathon"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -246,6 +246,8 @@
         "One --[bristol's]--> more prominent",
         "Viktoriya --[kravchenko:]--> Viktoriya Kravchenko",
         "Emanuel --[lovell]--> Webb: Emanuel",
-        "Isle --[wight]--> Festival: The"
+        "Isle --[wight]--> Festival: The",
+        "Visiline --[jepkesho:]--> Visiline Jepkesho",
+        "She --[competed]--> the marathon"
     ]
 }
