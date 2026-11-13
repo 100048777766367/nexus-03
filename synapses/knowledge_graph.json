@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Recreation season",
-        "New",
         "Town Hall:",
         "Constructed",
         "gritsto",
@@ -99,7 +97,9 @@
         "Visiline",
         "Visiline Jepkesho",
         "She",
-        "the marathon"
+        "the marathon",
+        "Al-thawriyyun",
+        "The Al-Thawriyyun"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -248,6 +248,7 @@
         "Emanuel --[lovell]--> Webb: Emanuel",
         "Isle --[wight]--> Festival: The",
         "Visiline --[jepkesho:]--> Visiline Jepkesho",
-        "She --[competed]--> the marathon"
+        "She --[competed]--> the marathon",
+        "Al-thawriyyun --[group:]--> The Al-Thawriyyun"
     ]
 }
