@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Town Hall:",
-        "Constructed",
         "gritsto",
         "Commerce",
         "Commerce raiding",
@@ -99,7 +97,9 @@
         "She",
         "the marathon",
         "Al-thawriyyun",
-        "The Al-Thawriyyun"
+        "The Al-Thawriyyun",
+        "Prioritet",
+        "Arena: Prioritet"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -249,6 +249,7 @@
         "Isle --[wight]--> Festival: The",
         "Visiline --[jepkesho:]--> Visiline Jepkesho",
         "She --[competed]--> the marathon",
-        "Al-thawriyyun --[group:]--> The Al-Thawriyyun"
+        "Al-thawriyyun --[group:]--> The Al-Thawriyyun",
+        "Prioritet --[serneke]--> Arena: Prioritet"
     ]
 }
