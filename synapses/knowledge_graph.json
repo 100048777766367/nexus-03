@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Commerce raiding",
-        "Byrd's",
         "Church: Byrd's",
         "Acacia",
         "Acacia havilandiorum,",
@@ -99,10 +97,11 @@
         "Prioritet",
         "Arena: Prioritet",
         "Jeddah",
-        "round: The"
+        "round: The",
+        "Viviane",
+        "Viviane Reding"
     ],
     "edges": [
-        "Mikael --[rickfors:]--> Mikael Rickfors",
         "From --[1968,]--> was the",
         "Sukkwan --[island]--> (film): Sukkwan",
         "Kristen --[lawrence:]--> Kristen Elise",
@@ -251,6 +250,7 @@
         "She --[competed]--> the marathon",
         "Al-thawriyyun --[group:]--> The Al-Thawriyyun",
         "Prioritet --[serneke]--> Arena: Prioritet",
-        "Jeddah --[formula]--> round: The"
+        "Jeddah --[formula]--> round: The",
+        "Viviane --[reding:]--> Viviane Reding"
     ]
 }
