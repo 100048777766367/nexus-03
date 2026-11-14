@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "gritsto",
-        "Commerce",
         "Commerce raiding",
         "Byrd's",
         "Church: Byrd's",
@@ -99,7 +97,9 @@
         "Al-thawriyyun",
         "The Al-Thawriyyun",
         "Prioritet",
-        "Arena: Prioritet"
+        "Arena: Prioritet",
+        "Jeddah",
+        "round: The"
     ],
     "edges": [
         "Mikael --[rickfors:]--> Mikael Rickfors",
@@ -250,6 +250,7 @@
         "Visiline --[jepkesho:]--> Visiline Jepkesho",
         "She --[competed]--> the marathon",
         "Al-thawriyyun --[group:]--> The Al-Thawriyyun",
-        "Prioritet --[serneke]--> Arena: Prioritet"
+        "Prioritet --[serneke]--> Arena: Prioritet",
+        "Jeddah --[formula]--> round: The"
     ]
 }
