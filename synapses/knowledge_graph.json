@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Church: Byrd's",
-        "Acacia",
         "Acacia havilandiorum,",
         "Gwyddelwern:",
         "small village",
@@ -99,10 +97,11 @@
         "Jeddah",
         "round: The",
         "Viviane",
-        "Viviane Reding"
+        "Viviane Reding",
+        "Janney",
+        "Park: Eli"
     ],
     "edges": [
-        "From --[1968,]--> was the",
         "Sukkwan --[island]--> (film): Sukkwan",
         "Kristen --[lawrence:]--> Kristen Elise",
         "Gleicheniales: --[gleicheniales]--> order ferns",
@@ -251,6 +250,7 @@
         "Al-thawriyyun --[group:]--> The Al-Thawriyyun",
         "Prioritet --[serneke]--> Arena: Prioritet",
         "Jeddah --[formula]--> round: The",
-        "Viviane --[reding:]--> Viviane Reding"
+        "Viviane --[reding:]--> Viviane Reding",
+        "Janney --[furnace]--> Park: Eli"
     ]
 }
