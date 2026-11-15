@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "monotypic moth",
-        "Its",
         "species, Micronoctua",
         "William",
         "Pettett: William",
@@ -99,10 +97,11 @@
         "Rowan",
         "was American",
         "Representative",
-        "Illinois from"
+        "Illinois from",
+        "Acapulco",
+        "(clothing brand):"
     ],
     "edges": [
-        "The --[gleicheniales]--> has spore",
         "Anna --[hvoslef:]--> Anna Hvoslef",
         "One --[norway's]--> first female",
         "From --[the]--> Middle Ages",
@@ -251,6 +250,7 @@
         "Janney --[furnace]--> Park: Eli",
         "Sensorimotor --[(album):]--> Sensorimotor studio",
         "Rowan --[chicago]--> was American",
-        "Representative --[from]--> Illinois from"
+        "Representative --[from]--> Illinois from",
+        "Acapulco --[gold]--> (clothing brand):"
     ]
 }
