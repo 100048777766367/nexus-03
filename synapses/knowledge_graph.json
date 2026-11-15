@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "small village",
-        "Bad",
-        "Bad Bodenteich",
-        "Micronoctua:",
         "monotypic moth",
         "Its",
         "species, Micronoctua",
@@ -99,11 +95,13 @@
         "Janney",
         "Park: Eli",
         "Sensorimotor",
-        "Sensorimotor studio"
+        "Sensorimotor studio",
+        "Rowan",
+        "was American",
+        "Representative",
+        "Illinois from"
     ],
     "edges": [
-        "Kristen --[lawrence:]--> Kristen Elise",
-        "Gleicheniales: --[gleicheniales]--> order ferns",
         "The --[gleicheniales]--> has spore",
         "Anna --[hvoslef:]--> Anna Hvoslef",
         "One --[norway's]--> first female",
@@ -251,6 +249,8 @@
         "Jeddah --[formula]--> round: The",
         "Viviane --[reding:]--> Viviane Reding",
         "Janney --[furnace]--> Park: Eli",
-        "Sensorimotor --[(album):]--> Sensorimotor studio"
+        "Sensorimotor --[(album):]--> Sensorimotor studio",
+        "Rowan --[chicago]--> was American",
+        "Representative --[from]--> Illinois from"
     ]
 }
