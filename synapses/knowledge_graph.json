@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Acacia havilandiorum,",
-        "Gwyddelwern:",
         "small village",
         "Bad",
         "Bad Bodenteich",
@@ -99,10 +97,11 @@
         "Viviane",
         "Viviane Reding",
         "Janney",
-        "Park: Eli"
+        "Park: Eli",
+        "Sensorimotor",
+        "Sensorimotor studio"
     ],
     "edges": [
-        "Sukkwan --[island]--> (film): Sukkwan",
         "Kristen --[lawrence:]--> Kristen Elise",
         "Gleicheniales: --[gleicheniales]--> order ferns",
         "The --[gleicheniales]--> has spore",
@@ -251,6 +250,7 @@
         "Prioritet --[serneke]--> Arena: Prioritet",
         "Jeddah --[formula]--> round: The",
         "Viviane --[reding:]--> Viviane Reding",
-        "Janney --[furnace]--> Park: Eli"
+        "Janney --[furnace]--> Park: Eli",
+        "Sensorimotor --[(album):]--> Sensorimotor studio"
     ]
 }
