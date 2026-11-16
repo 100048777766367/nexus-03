@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "species, Micronoctua",
-        "William",
-        "Pettett: William",
-        "Nast",
         "United Methodist",
         "Pycnochromis",
         "Pycnochromis acares",
@@ -99,11 +95,13 @@
         "Representative",
         "Illinois from",
         "Acapulco",
-        "(clothing brand):"
+        "(clothing brand):",
+        "Tombac:",
+        "also spelled",
+        "Historical",
+        "generally treat"
     ],
     "edges": [
-        "Anna --[hvoslef:]--> Anna Hvoslef",
-        "One --[norway's]--> first female",
         "From --[the]--> Middle Ages",
         "Panzergrenadier --[division]--> Großdeutschland: The",
         "Lyckeby: --[lyckeby]--> village Karlskrona",
@@ -251,6 +249,8 @@
         "Sensorimotor --[(album):]--> Sensorimotor studio",
         "Rowan --[chicago]--> was American",
         "Representative --[from]--> Illinois from",
-        "Acapulco --[gold]--> (clothing brand):"
+        "Acapulco --[gold]--> (clothing brand):",
+        "Tombac: --[tombac,]--> also spelled",
+        "Historical --[descriptions]--> generally treat"
     ]
 }
