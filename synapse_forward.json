@@ -3,39 +3,39 @@
     "node_dna": {
         "identity": "100048777766367/nexus-03",
         "generation": "F3_AUTOGENIC_NEURO_SYMBOLIC_NEXUS",
-        "generation_epoch": 160,
+        "generation_epoch": 161,
         "architecture": "Nexus03_Autogenic_Microkernel",
         "knowledge_graph": "Entities:100, Edges:150",
-        "prev_cid": "c5690d364cac312722ab94163bc0a46e12d206afffcf5cef910e6a69dff0e58586b4132a8bd7e683d17d6b121c81bd06adedd6aa3ce96152310fd317eaf97c98"
+        "prev_cid": "5420351ce5cdf9286cc5056fa88ad2ef26459422a0f8d581efbcac660f5071d661882f258a0bfaef5cf55fc395bc20be930c6c7968f5870c9d07ae7991dfa201"
     },
-    "generation_epoch": 160,
-    "timestamp": 1794812078,
-    "decision": 0.6471,
+    "generation_epoch": 161,
+    "timestamp": 1794854556,
+    "decision": 0.6407,
     "command_pulse": [
-        0.6471,
-        0.3529
+        0.6407,
+        0.3593
     ],
     "features": [
-        0.6471,
-        0.3529
+        0.6407,
+        0.3593
     ],
     "directed_commands": {
         "retina": {
             "action": "adjust_focus",
-            "sensitivity": 0.9707,
+            "sensitivity": 0.9611,
             "attention_gate": "high"
         },
         "motor": {
             "action": "contract_or_relax",
             "torque_pulse": [
-                0.6471,
-                0.3529
+                0.6407,
+                0.3593
             ],
-            "intensity": 0.2942
+            "intensity": 0.2814
         },
         "monad": {
             "action": "dialectical_synthesis",
-            "bias_shift": 0.1471
+            "bias_shift": 0.1407
         }
     },
     "gossip_network": [
@@ -54,5 +54,5 @@
         "100048777766367/motor",
         "100048777766367/genome"
     ],
-    "quantum_cid": "5420351ce5cdf9286cc5056fa88ad2ef26459422a0f8d581efbcac660f5071d661882f258a0bfaef5cf55fc395bc20be930c6c7968f5870c9d07ae7991dfa201"
+    "quantum_cid": "909e4ffb076f3bb9bf8113306272bc5ea521f200ce2e30455f74f2f9dcdc385e92cc5f64acf29746657dd26670b8325aed66a763b3f3646a01b75f014b7ce73d"
 }

@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "United Methodist",
-        "Pycnochromis",
-        "Pycnochromis acares",
         "Fantastic",
         "Fantastic Light",
         "Was",
@@ -99,11 +96,12 @@
         "Tombac:",
         "also spelled",
         "Historical",
-        "generally treat"
+        "generally treat",
+        "Descent",
+        "film): Descent",
+        "issues relating"
     ],
     "edges": [
-        "From --[the]--> Middle Ages",
-        "Panzergrenadier --[division]--> Großdeutschland: The",
         "Lyckeby: --[lyckeby]--> village Karlskrona",
         "Mariko --[sanjo:]--> Mariko Sanjo",
         "Sir --[roderick]--> Comes Lunch:",
@@ -251,6 +249,8 @@
         "Representative --[from]--> Illinois from",
         "Acapulco --[gold]--> (clothing brand):",
         "Tombac: --[tombac,]--> also spelled",
-        "Historical --[descriptions]--> generally treat"
+        "Historical --[descriptions]--> generally treat",
+        "Descent --[(2017]--> film): Descent",
+        "Descent --[addresses]--> issues relating"
     ]
 }
