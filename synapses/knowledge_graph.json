@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Heapey:",
-        "village and",
         "two miles",
         "Odd",
         "Willoch: Odd",
@@ -99,10 +97,11 @@
         "Marsilea",
         "Marsilea minuta,",
         "Plumas",
-        "California: Plumas"
+        "California: Plumas",
+        "Neville",
+        "Edward Neville"
     ],
     "edges": [
-        "Sir --[roderick]--> Comes Lunch:",
         "Wodehouse, --[and]--> features the",
         "Víctor --[amela:]--> Victor Manuel",
         "Trudering-riem: --[trudering-riem]--> the 15th",
@@ -251,6 +250,7 @@
         "Descent --[(2017]--> film): Descent",
         "Descent --[addresses]--> issues relating",
         "Marsilea --[minuta:]--> Marsilea minuta,",
-        "Plumas --[lake,]--> California: Plumas"
+        "Plumas --[lake,]--> California: Plumas",
+        "Neville --[isdell:]--> Edward Neville"
     ]
 }
