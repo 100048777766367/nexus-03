@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Was",
-        "the United",
         "Heapey:",
         "village and",
         "two miles",
@@ -99,10 +97,11 @@
         "film): Descent",
         "issues relating",
         "Marsilea",
-        "Marsilea minuta,"
+        "Marsilea minuta,",
+        "Plumas",
+        "California: Plumas"
     ],
     "edges": [
-        "Mariko --[sanjo:]--> Mariko Sanjo",
         "Sir --[roderick]--> Comes Lunch:",
         "Wodehouse, --[and]--> features the",
         "Víctor --[amela:]--> Victor Manuel",
@@ -251,6 +250,7 @@
         "Historical --[descriptions]--> generally treat",
         "Descent --[(2017]--> film): Descent",
         "Descent --[addresses]--> issues relating",
-        "Marsilea --[minuta:]--> Marsilea minuta,"
+        "Marsilea --[minuta:]--> Marsilea minuta,",
+        "Plumas --[lake,]--> California: Plumas"
     ]
 }
