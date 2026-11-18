@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "census, the",
-        "Malancourt:",
-        "commune the",
-        "Kołczewo:",
         "Cask'n",
         "The Cask",
         "Xanthoparmelia",
@@ -99,11 +95,13 @@
         "Kidskin:",
         "kid leather",
         "Widely",
-        "for othe"
+        "for othe",
+        "Witzell:",
+        "James Witzell,",
+        "Served",
+        "Legislative Assembly"
     ],
     "edges": [
-        "Trudering-riem: --[trudering-riem]--> the 15th",
-        "Consists --[the]--> two quarters",
         "Iceland --[the]--> 2019 European",
         "Iceland --[has]--> previously competed",
         "Whitby --[abbey]--> Cross: Whitby",
@@ -251,6 +249,8 @@
         "Plumas --[lake,]--> California: Plumas",
         "Neville --[isdell:]--> Edward Neville",
         "Kidskin: --[kidskin]--> kid leather",
-        "Widely --[used]--> for othe"
+        "Widely --[used]--> for othe",
+        "Witzell: --[alfred]--> James Witzell,",
+        "Served --[the]--> Legislative Assembly"
     ]
 }
