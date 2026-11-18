@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "two miles",
-        "Odd",
-        "Willoch: Odd",
-        "Township, Michigan:",
         "census, the",
         "Malancourt:",
         "commune the",
@@ -99,11 +95,13 @@
         "Plumas",
         "California: Plumas",
         "Neville",
-        "Edward Neville"
+        "Edward Neville",
+        "Kidskin:",
+        "kid leather",
+        "Widely",
+        "for othe"
     ],
     "edges": [
-        "Wodehouse, --[and]--> features the",
-        "Víctor --[amela:]--> Victor Manuel",
         "Trudering-riem: --[trudering-riem]--> the 15th",
         "Consists --[the]--> two quarters",
         "Iceland --[the]--> 2019 European",
@@ -251,6 +249,8 @@
         "Descent --[addresses]--> issues relating",
         "Marsilea --[minuta:]--> Marsilea minuta,",
         "Plumas --[lake,]--> California: Plumas",
-        "Neville --[isdell:]--> Edward Neville"
+        "Neville --[isdell:]--> Edward Neville",
+        "Kidskin: --[kidskin]--> kid leather",
+        "Widely --[used]--> for othe"
     ]
 }
