@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Xanthoparmelia saniensis",
-        "Bill",
         "William Courtland",
         "India",
         "Jenifer Yésica",
@@ -99,10 +97,11 @@
         "Legislative Assembly",
         "Amaral",
         "Amaral Ferrador",
-        "7,085 area"
+        "7,085 area",
+        "Earth-leakage",
+        "breaker: earth-leakage"
     ],
     "edges": [
-        "Whitby --[abbey]--> Cross: Whitby",
         "Włóczno: --[włóczno]--> former village",
         "Gerrit --[vries]--> (politician): Gerrit",
         "Stump --[(cricket):]--> cricket, the",
@@ -251,6 +250,7 @@
         "Witzell: --[alfred]--> James Witzell,",
         "Served --[the]--> Legislative Assembly",
         "Amaral --[ferrador:]--> Amaral Ferrador",
-        "The --[population]--> 7,085 area"
+        "The --[population]--> 7,085 area",
+        "Earth-leakage --[circuit]--> breaker: earth-leakage"
     ]
 }
