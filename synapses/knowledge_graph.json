@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "William Courtland",
-        "India",
-        "Jenifer Yésica",
         "Star",
         "Star Dojran",
         "The",
@@ -99,11 +96,12 @@
         "Amaral Ferrador",
         "7,085 area",
         "Earth-leakage",
-        "breaker: earth-leakage"
+        "breaker: earth-leakage",
+        "György",
+        "Golomán",
+        "professional basketball"
     ],
     "edges": [
-        "Włóczno: --[włóczno]--> former village",
-        "Gerrit --[vries]--> (politician): Gerrit",
         "Stump --[(cricket):]--> cricket, the",
         "Stumping --[being]--> stumpe",
         "Kit --[lambert:]--> Christopher Sebastian",
@@ -251,6 +249,8 @@
         "Served --[the]--> Legislative Assembly",
         "Amaral --[ferrador:]--> Amaral Ferrador",
         "The --[population]--> 7,085 area",
-        "Earth-leakage --[circuit]--> breaker: earth-leakage"
+        "Earth-leakage --[circuit]--> breaker: earth-leakage",
+        "György --[golomán:]--> György",
+        "Golomán --[hungarian]--> professional basketball"
     ]
 }
