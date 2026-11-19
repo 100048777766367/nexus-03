@@ -1,8 +1,5 @@
 {
     "nodes": [
-        "Cask'n",
-        "The Cask",
-        "Xanthoparmelia",
         "Xanthoparmelia saniensis",
         "Bill",
         "William Courtland",
@@ -99,11 +96,12 @@
         "Witzell:",
         "James Witzell,",
         "Served",
-        "Legislative Assembly"
+        "Legislative Assembly",
+        "Amaral",
+        "Amaral Ferrador",
+        "7,085 area"
     ],
     "edges": [
-        "Iceland --[the]--> 2019 European",
-        "Iceland --[has]--> previously competed",
         "Whitby --[abbey]--> Cross: Whitby",
         "Włóczno: --[włóczno]--> former village",
         "Gerrit --[vries]--> (politician): Gerrit",
@@ -251,6 +249,8 @@
         "Kidskin: --[kidskin]--> kid leather",
         "Widely --[used]--> for othe",
         "Witzell: --[alfred]--> James Witzell,",
-        "Served --[the]--> Legislative Assembly"
+        "Served --[the]--> Legislative Assembly",
+        "Amaral --[ferrador:]--> Amaral Ferrador",
+        "The --[population]--> 7,085 area"
     ]
 }
