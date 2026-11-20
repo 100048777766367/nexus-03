@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "The",
-        "the municipality",
         "Church, Goxhill:",
         "Theatre:",
         "Theatre music",
@@ -99,10 +97,11 @@
         "Golomán",
         "professional basketball",
         "Amrit",
-        "Express: The"
+        "Express: The",
+        "1904",
+        "Bennett Cup:"
     ],
     "edges": [
-        "Stumping --[being]--> stumpe",
         "Kit --[lambert:]--> Christopher Sebastian",
         "Albert --[leffingwell]--> (physician): Albert",
         "Tibbits --[house:]--> Tibbits House,",
@@ -251,6 +250,7 @@
         "Earth-leakage --[circuit]--> breaker: earth-leakage",
         "György --[golomán:]--> György",
         "Golomán --[hungarian]--> professional basketball",
-        "Amrit --[bharat]--> Express: The"
+        "Amrit --[bharat]--> Express: The",
+        "1904 --[gordon]--> Bennett Cup:"
     ]
 }
