@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Star",
-        "Star Dojran",
         "The",
         "the municipality",
         "Church, Goxhill:",
@@ -99,10 +97,11 @@
         "breaker: earth-leakage",
         "György",
         "Golomán",
-        "professional basketball"
+        "professional basketball",
+        "Amrit",
+        "Express: The"
     ],
     "edges": [
-        "Stump --[(cricket):]--> cricket, the",
         "Stumping --[being]--> stumpe",
         "Kit --[lambert:]--> Christopher Sebastian",
         "Albert --[leffingwell]--> (physician): Albert",
@@ -251,6 +250,7 @@
         "The --[population]--> 7,085 area",
         "Earth-leakage --[circuit]--> breaker: earth-leakage",
         "György --[golomán:]--> György",
-        "Golomán --[hungarian]--> professional basketball"
+        "Golomán --[hungarian]--> professional basketball",
+        "Amrit --[bharat]--> Express: The"
     ]
 }
