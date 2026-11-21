@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Church, Goxhill:",
-        "Theatre:",
-        "Theatre music",
-        "Jeff",
         "Jeffrey",
         "Hayden",
         "politician and",
@@ -99,11 +95,13 @@
         "Amrit",
         "Express: The",
         "1904",
-        "Bennett Cup:"
+        "Bennett Cup:",
+        "Christian",
+        "Christian Zais",
+        "Zai",
+        "born Cannstatt,"
     ],
     "edges": [
-        "Kit --[lambert:]--> Christopher Sebastian",
-        "Albert --[leffingwell]--> (physician): Albert",
         "Tibbits --[house:]--> Tibbits House,",
         "Good --[grief]--> (Lucius album):",
         "Released --[pias]--> Recordings, Mom",
@@ -251,6 +249,8 @@
         "György --[golomán:]--> György",
         "Golomán --[hungarian]--> professional basketball",
         "Amrit --[bharat]--> Express: The",
-        "1904 --[gordon]--> Bennett Cup:"
+        "1904 --[gordon]--> Bennett Cup:",
+        "Christian --[zais:]--> Christian Zais",
+        "Zai --[was]--> born Cannstatt,"
     ]
 }
