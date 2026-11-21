@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Jeffrey",
-        "Hayden",
-        "politician and",
-        "Member",
         "Minnesota Democra",
         "Tahmasp",
         "was the",
@@ -99,11 +95,13 @@
         "Christian",
         "Christian Zais",
         "Zai",
-        "born Cannstatt,"
+        "born Cannstatt,",
+        "Irma's",
+        "Irma's Original,",
+        "Was",
+        "1989"
     ],
     "edges": [
-        "Tibbits --[house:]--> Tibbits House,",
-        "Good --[grief]--> (Lucius album):",
         "Released --[pias]--> Recordings, Mom",
         "Immediate --[geographic]--> Region Manhuaçu:",
         "Frédéric --[pottecher:]--> Frédéric Pottecher",
@@ -251,6 +249,8 @@
         "Amrit --[bharat]--> Express: The",
         "1904 --[gordon]--> Bennett Cup:",
         "Christian --[zais:]--> Christian Zais",
-        "Zai --[was]--> born Cannstatt,"
+        "Zai --[was]--> born Cannstatt,",
+        "Irma's --[original:]--> Irma's Original,",
+        "Was --[opened]--> 1989"
     ]
 }
