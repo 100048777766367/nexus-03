@@ -1,9 +1,5 @@
 {
     "nodes": [
-        "Minnesota Democra",
-        "Tahmasp",
-        "was the",
-        "eldest son",
         "Ikaw",
         "Ikaw Pag-Ibig",
         "Pomona,",
@@ -99,11 +95,13 @@
         "Irma's",
         "Irma's Original,",
         "Was",
-        "1989"
+        "1989",
+        "Autol:",
+        "Deportivo Autol",
+        "Founded",
+        "they play"
     ],
     "edges": [
-        "Released --[pias]--> Recordings, Mom",
-        "Immediate --[geographic]--> Region Manhuaçu:",
         "Frédéric --[pottecher:]--> Frédéric Pottecher",
         "Dark --[energy]--> Survey: The",
         "Las --[huelgas]--> Codex: The",
@@ -251,6 +249,8 @@
         "Christian --[zais:]--> Christian Zais",
         "Zai --[was]--> born Cannstatt,",
         "Irma's --[original:]--> Irma's Original,",
-        "Was --[opened]--> 1989"
+        "Was --[opened]--> 1989",
+        "Autol: --[club]--> Deportivo Autol",
+        "Founded --[1972,]--> they play"
     ]
 }
