@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Ikaw",
-        "Ikaw Pag-Ibig",
         "Pomona,",
         "Pomona Maya",
         "Otobong",
@@ -99,10 +97,11 @@
         "Autol:",
         "Deportivo Autol",
         "Founded",
-        "they play"
+        "they play",
+        "2019",
+        "border skirmishes:"
     ],
     "edges": [
-        "Frédéric --[pottecher:]--> Frédéric Pottecher",
         "Dark --[energy]--> Survey: The",
         "Las --[huelgas]--> Codex: The",
         "1300 --[which]--> originated and",
@@ -251,6 +250,7 @@
         "Irma's --[original:]--> Irma's Original,",
         "Was --[opened]--> 1989",
         "Autol: --[club]--> Deportivo Autol",
-        "Founded --[1972,]--> they play"
+        "Founded --[1972,]--> they play",
+        "2019 --[india–pakistan]--> border skirmishes:"
     ]
 }
