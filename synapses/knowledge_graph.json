@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Otobong",
-        "Otobong Nkanga",
         "Jordan,",
         "Jordan neighborhood",
         "are Lowry",
@@ -99,10 +97,11 @@
         "2019",
         "border skirmishes:",
         "Saint-martin-de-queyrières:",
-        "commune the"
+        "commune the",
+        "Giuseppe",
+        "Nasini: Giuseppe"
     ],
     "edges": [
-        "Las --[huelgas]--> Codex: The",
         "1300 --[which]--> originated and",
         "Clarence --[mitchell]--> III: Clarence",
         "Laura --[neboli:]--> Laura Neboli",
@@ -251,6 +250,7 @@
         "Autol: --[club]--> Deportivo Autol",
         "Founded --[1972,]--> they play",
         "2019 --[india–pakistan]--> border skirmishes:",
-        "Saint-martin-de-queyrières: --[saint-martin-de-queyrières]--> commune the"
+        "Saint-martin-de-queyrières: --[saint-martin-de-queyrières]--> commune the",
+        "Giuseppe --[nicola]--> Nasini: Giuseppe"
     ]
 }
