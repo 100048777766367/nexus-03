@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Jordan,",
-        "Jordan neighborhood",
         "are Lowry",
         "Burgstall:",
         "German term",
@@ -99,10 +97,11 @@
         "Saint-martin-de-queyrières:",
         "commune the",
         "Giuseppe",
-        "Nasini: Giuseppe"
+        "Nasini: Giuseppe",
+        "Paris:",
+        "Paris: Poem"
     ],
     "edges": [
-        "1300 --[which]--> originated and",
         "Clarence --[mitchell]--> III: Clarence",
         "Laura --[neboli:]--> Laura Neboli",
         "Grzegorz --[myszkowski:]--> Grzegorz Marek",
@@ -251,6 +250,7 @@
         "Founded --[1972,]--> they play",
         "2019 --[india–pakistan]--> border skirmishes:",
         "Saint-martin-de-queyrières: --[saint-martin-de-queyrières]--> commune the",
-        "Giuseppe --[nicola]--> Nasini: Giuseppe"
+        "Giuseppe --[nicola]--> Nasini: Giuseppe",
+        "Paris: --[poem:]--> Paris: Poem"
     ]
 }
