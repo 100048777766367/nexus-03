@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "German term",
-        "American",
         "League: The",
         "Glorioso",
         "Quem Nunca",
@@ -99,10 +97,11 @@
         "Paris:",
         "Paris: Poem",
         "Sabunçu",
-        "Sabunchu district"
+        "Sabunchu district",
+        "Bhind",
+        "constituency: Bhind"
     ],
     "edges": [
-        "Laura --[neboli:]--> Laura Neboli",
         "Grzegorz --[myszkowski:]--> Grzegorz Marek",
         "Competed --[the]--> men's Division",
         "Rudi --[kappel:]--> Ronald \"Rudi\"",
@@ -251,6 +250,7 @@
         "Saint-martin-de-queyrières: --[saint-martin-de-queyrières]--> commune the",
         "Giuseppe --[nicola]--> Nasini: Giuseppe",
         "Paris: --[poem:]--> Paris: Poem",
-        "Sabunçu --[raion:]--> Sabunchu district"
+        "Sabunçu --[raion:]--> Sabunchu district",
+        "Bhind --[assembly]--> constituency: Bhind"
     ]
 }
