@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "are Lowry",
-        "Burgstall:",
         "German term",
         "American",
         "League: The",
@@ -99,10 +97,11 @@
         "Giuseppe",
         "Nasini: Giuseppe",
         "Paris:",
-        "Paris: Poem"
+        "Paris: Poem",
+        "Sabunçu",
+        "Sabunchu district"
     ],
     "edges": [
-        "Clarence --[mitchell]--> III: Clarence",
         "Laura --[neboli:]--> Laura Neboli",
         "Grzegorz --[myszkowski:]--> Grzegorz Marek",
         "Competed --[the]--> men's Division",
@@ -251,6 +250,7 @@
         "2019 --[india–pakistan]--> border skirmishes:",
         "Saint-martin-de-queyrières: --[saint-martin-de-queyrières]--> commune the",
         "Giuseppe --[nicola]--> Nasini: Giuseppe",
-        "Paris: --[poem:]--> Paris: Poem"
+        "Paris: --[poem:]--> Paris: Poem",
+        "Sabunçu --[raion:]--> Sabunchu district"
     ]
 }
