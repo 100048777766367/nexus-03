@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Quem Nunca",
-        "was",
         "Triumph",
         "The Triumph",
         "Originally",
@@ -99,10 +97,11 @@
         "Bhind",
         "constituency: Bhind",
         "1961",
-        "500: The"
+        "500: The",
+        "Greenbank",
+        "Synagogue: Greenbank"
     ],
     "edges": [
-        "Competed --[the]--> men's Division",
         "Rudi --[kappel:]--> Ronald \"Rudi\"",
         "Was --[one]--> the founders",
         "Milap --[(1955]--> film): Milap",
@@ -251,6 +250,7 @@
         "Paris: --[poem:]--> Paris: Poem",
         "Sabunçu --[raion:]--> Sabunchu district",
         "Bhind --[assembly]--> constituency: Bhind",
-        "1961 --[indianapolis]--> 500: The"
+        "1961 --[indianapolis]--> 500: The",
+        "Greenbank --[drive]--> Synagogue: Greenbank"
     ]
 }
