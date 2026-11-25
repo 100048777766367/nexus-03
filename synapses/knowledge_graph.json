@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "League: The",
-        "Glorioso",
         "Quem Nunca",
         "was",
         "Triumph",
@@ -99,10 +97,11 @@
         "Sabunçu",
         "Sabunchu district",
         "Bhind",
-        "constituency: Bhind"
+        "constituency: Bhind",
+        "1961",
+        "500: The"
     ],
     "edges": [
-        "Grzegorz --[myszkowski:]--> Grzegorz Marek",
         "Competed --[the]--> men's Division",
         "Rudi --[kappel:]--> Ronald \"Rudi\"",
         "Was --[one]--> the founders",
@@ -251,6 +250,7 @@
         "Giuseppe --[nicola]--> Nasini: Giuseppe",
         "Paris: --[poem:]--> Paris: Poem",
         "Sabunçu --[raion:]--> Sabunchu district",
-        "Bhind --[assembly]--> constituency: Bhind"
+        "Bhind --[assembly]--> constituency: Bhind",
+        "1961 --[indianapolis]--> 500: The"
     ]
 }
