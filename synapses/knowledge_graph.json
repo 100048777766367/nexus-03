@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Second",
-        "Badajoz (1811):",
         "House, Stoke",
         "One",
         "more prominent",
@@ -99,10 +97,11 @@
         "State",
         "Dakota",
         "The",
-        "census, the"
+        "census, the",
+        "David",
+        "David Kelly"
     ],
     "edges": [
-        "Milap --[(1955]--> film): Milap",
         "The --[film]--> featured Dev",
         "Meal --[replacement:]--> meal replacement",
         "Intended --[substitute]--> for solid",
@@ -251,6 +250,7 @@
         "1961 --[indianapolis]--> 500: The",
         "Greenbank --[drive]--> Synagogue: Greenbank",
         "Tripp --[county,]--> South Dakota:",
-        "State --[south]--> Dakota"
+        "State --[south]--> Dakota",
+        "David --[littleproud:]--> David Kelly"
     ]
 }
