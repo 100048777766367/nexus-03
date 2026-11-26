@@ -1,11 +1,5 @@
 {
     "nodes": [
-        "Triumph",
-        "The Triumph",
-        "Originally",
-        "Edwar",
-        "Ángel",
-        "Ángel Piqueras",
         "Second",
         "Badajoz (1811):",
         "House, Stoke",
@@ -99,11 +93,15 @@
         "1961",
         "500: The",
         "Greenbank",
-        "Synagogue: Greenbank"
+        "Synagogue: Greenbank",
+        "Tripp",
+        "South Dakota:",
+        "State",
+        "Dakota",
+        "The",
+        "census, the"
     ],
     "edges": [
-        "Rudi --[kappel:]--> Ronald \"Rudi\"",
-        "Was --[one]--> the founders",
         "Milap --[(1955]--> film): Milap",
         "The --[film]--> featured Dev",
         "Meal --[replacement:]--> meal replacement",
@@ -251,6 +249,8 @@
         "Sabunçu --[raion:]--> Sabunchu district",
         "Bhind --[assembly]--> constituency: Bhind",
         "1961 --[indianapolis]--> 500: The",
-        "Greenbank --[drive]--> Synagogue: Greenbank"
+        "Greenbank --[drive]--> Synagogue: Greenbank",
+        "Tripp --[county,]--> South Dakota:",
+        "State --[south]--> Dakota"
     ]
 }
