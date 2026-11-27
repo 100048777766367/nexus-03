@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "House, Stoke",
-        "One",
         "more prominent",
         "Viktoriya",
         "Viktoriya Kravchenko",
@@ -99,10 +97,11 @@
         "The",
         "census, the",
         "David",
-        "David Kelly"
+        "David Kelly",
+        "Hollywood",
+        "Hollywood Pictures"
     ],
     "edges": [
-        "The --[film]--> featured Dev",
         "Meal --[replacement:]--> meal replacement",
         "Intended --[substitute]--> for solid",
         "Pressure: --[pressure]--> the force",
@@ -251,6 +250,7 @@
         "Greenbank --[drive]--> Synagogue: Greenbank",
         "Tripp --[county,]--> South Dakota:",
         "State --[south]--> Dakota",
-        "David --[littleproud:]--> David Kelly"
+        "David --[littleproud:]--> David Kelly",
+        "Hollywood --[pictures:]--> Hollywood Pictures"
     ]
 }
