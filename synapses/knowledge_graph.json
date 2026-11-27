@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "more prominent",
-        "Viktoriya",
         "Viktoriya Kravchenko",
         "Emanuel",
         "Webb: Emanuel",
@@ -99,10 +97,11 @@
         "David",
         "David Kelly",
         "Hollywood",
-        "Hollywood Pictures"
+        "Hollywood Pictures",
+        "Fernandinho",
+        "born May"
     ],
     "edges": [
-        "Meal --[replacement:]--> meal replacement",
         "Intended --[substitute]--> for solid",
         "Pressure: --[pressure]--> the force",
         "Waccasassa --[bay]--> Preserve State",
@@ -251,6 +250,7 @@
         "Tripp --[county,]--> South Dakota:",
         "State --[south]--> Dakota",
         "David --[littleproud:]--> David Kelly",
-        "Hollywood --[pictures:]--> Hollywood Pictures"
+        "Hollywood --[pictures:]--> Hollywood Pictures",
+        "Fernandinho --[(footballer,]--> born May"
     ]
 }
