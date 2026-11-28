@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Webb: Emanuel",
-        "Isle",
         "Festival: The",
         "Visiline",
         "Visiline Jepkesho",
@@ -99,10 +97,11 @@
         "Fernandinho",
         "born May",
         "Sport",
-        "Sport stacking,"
+        "Sport stacking,",
+        "Alexandros",
+        "Alexandros Papanastasiou"
     ],
     "edges": [
-        "Pressure: --[pressure]--> the force",
         "Waccasassa --[bay]--> Preserve State",
         "Km2) --[salt]--> marsh that",
         "Bárbara --[channel:]--> Bárbara Channel",
@@ -251,6 +250,7 @@
         "David --[littleproud:]--> David Kelly",
         "Hollywood --[pictures:]--> Hollywood Pictures",
         "Fernandinho --[(footballer,]--> born May",
-        "Sport --[stacking:]--> Sport stacking,"
+        "Sport --[stacking:]--> Sport stacking,",
+        "Alexandros --[papanastasiou:]--> Alexandros Papanastasiou"
     ]
 }
