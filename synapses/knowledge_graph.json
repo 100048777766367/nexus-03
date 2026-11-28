@@ -1,7 +1,5 @@
 {
     "nodes": [
-        "Viktoriya Kravchenko",
-        "Emanuel",
         "Webb: Emanuel",
         "Isle",
         "Festival: The",
@@ -99,10 +97,11 @@
         "Hollywood",
         "Hollywood Pictures",
         "Fernandinho",
-        "born May"
+        "born May",
+        "Sport",
+        "Sport stacking,"
     ],
     "edges": [
-        "Intended --[substitute]--> for solid",
         "Pressure: --[pressure]--> the force",
         "Waccasassa --[bay]--> Preserve State",
         "Km2) --[salt]--> marsh that",
@@ -251,6 +250,7 @@
         "State --[south]--> Dakota",
         "David --[littleproud:]--> David Kelly",
         "Hollywood --[pictures:]--> Hollywood Pictures",
-        "Fernandinho --[(footballer,]--> born May"
+        "Fernandinho --[(footballer,]--> born May",
+        "Sport --[stacking:]--> Sport stacking,"
     ]
 }
